@@ -78,7 +78,3 @@ We reorder columns for better organization of the dataset.
 You can use this code as a reference for preprocessing the Titanic dataset for machine learning tasks.
 
 Feel free to explore the Jupyter Notebook file for a step-by-step walkthrough of the code and data analysis.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
