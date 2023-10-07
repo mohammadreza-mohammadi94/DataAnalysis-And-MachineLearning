@@ -1,0 +1,1309 @@
+title,last_name,first_name,pclass,survived,sex_female,sex_male,age,sibsp,parch,fare,embarked,boat,Cabin_Deck,Has_Cabin
+Miss,Allen, Elisabeth Walton,1.0,1.0,1,0,1,0.0,0.0,2,S,2,1,1
+Master,Allison, Hudson Trevor,1.0,1.0,0,1,0,1.0,2.0,1,S,11,2,1
+Miss,Allison, Helen Loraine,1.0,0.0,1,0,0,1.0,2.0,1,S,8,2,1
+Mr,Allison, Hudson Joshua Creighton,1.0,0.0,0,1,1,1.0,2.0,1,S,3,2,1
+Mrs,Allison, Hudson J C (Bessie Waldo Daniels),1.0,0.0,1,0,1,1.0,2.0,1,S,8,2,1
+Mr,Anderson, Harry,1.0,1.0,0,1,2,0.0,0.0,0,S,3,4,1
+Miss,Andrews, Kornelia Theodosia,1.0,1.0,1,0,3,1.0,0.0,0,S,10,3,1
+Mr,Andrews, Thomas Jr,1.0,0.0,0,1,2,0.0,0.0,0,S,3,0,1
+Mrs,Appleton, Edward Dale (Charlotte Lamson),1.0,1.0,1,0,3,2.0,0.0,0,S,D,2,1
+Mr,Artagaveytia, Ramon,1.0,0.0,0,1,4,0.0,0.0,0,C,3,2,1
+Col,Astor, John Jacob,1.0,0.0,0,1,2,1.0,0.0,2,C,3,2,1
+Mrs,Astor, John Jacob (Madeleine Talmadge Force),1.0,1.0,1,0,1,1.0,0.0,2,C,4,2,1
+Mme,Aubart, Leontine Pauline,1.0,1.0,1,0,1,0.0,0.0,0,C,9,1,1
+Miss,Barber," Ellen ""Nellie""",1.0,1.0,1,0,1,0.0,0.0,0,S,6,2,1
+Mr,Barkworth, Algernon Henry Wilson,1.0,1.0,0,1,4,0.0,0.0,0,S,B,0,1
+Mr,Baumann, John D,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Baxter, Quigg Edmond,1.0,0.0,0,1,1,0.0,1.0,2,C,3,1,1
+Mrs,Baxter, James (Helene DeLaudeniere Chaput),1.0,1.0,1,0,3,0.0,1.0,2,C,6,1,1
+Miss,Bazzani, Albina,1.0,1.0,1,0,1,0.0,0.0,0,C,8,3,1
+Mr,Beattie, Thomson,1.0,0.0,0,1,2,0.0,0.0,0,C,A,2,1
+Mr,Beckwith, Richard Leonard,1.0,1.0,0,1,2,1.0,1.0,0,S,5,3,1
+Mrs,Beckwith, Richard Leonard (Sallie Monypeny),1.0,1.0,1,0,2,1.0,1.0,0,S,5,3,1
+Mr,Behr, Karl Howell,1.0,1.0,0,1,1,0.0,0.0,0,C,5,2,1
+Miss,Bidois, Rosalie,1.0,1.0,1,0,2,0.0,0.0,2,C,4,2,1
+Miss,Bird, Ellen,1.0,1.0,1,0,1,0.0,0.0,2,S,8,2,1
+Mr,Birnbaum, Jakob,1.0,0.0,0,1,1,0.0,0.0,0,C,3,2,1
+Mr,Bishop, Dickinson H,1.0,1.0,0,1,1,1.0,0.0,0,C,7,1,1
+Mrs,Bishop, Dickinson H (Helen Walton),1.0,1.0,1,0,1,1.0,0.0,0,C,7,1,1
+Miss,Bissette, Amelia,1.0,1.0,1,0,2,0.0,0.0,1,S,8,2,1
+Mr,Bjornstrom-Steffansson, Mauritz Hakan,1.0,1.0,0,1,1,0.0,0.0,0,S,D,2,1
+Mr,Blackwell, Stephen Weart,1.0,0.0,0,1,2,0.0,0.0,0,S,3,7,1
+Mr,Blank, Henry,1.0,1.0,0,1,2,0.0,0.0,0,C,7,0,1
+Miss,Bonnell, Caroline,1.0,1.0,1,0,1,0.0,0.0,1,S,8,2,1
+Miss,Bonnell, Elizabeth,1.0,1.0,1,0,3,0.0,0.0,0,S,8,2,1
+Mr,Borebank, John James,1.0,0.0,0,1,2,0.0,0.0,0,S,3,3,1
+Miss,Bowen, Grace Scott,1.0,1.0,1,0,2,0.0,0.0,2,C,4,2,1
+Miss,Bowerman, Elsie Edith,1.0,1.0,1,0,1,0.0,1.0,0,S,6,4,1
+Mr,Bradley," George (""George Arthur Brayton"")",1.0,1.0,0,1,2,0.0,0.0,0,S,9,2,1
+Mr,Brady, John Bertram,1.0,0.0,0,1,2,0.0,0.0,0,S,3,0,1
+Mr,Brandeis, Emil,1.0,0.0,0,1,2,0.0,0.0,0,C,3,1,1
+Dr,Brewe, Arthur Jackson,1.0,0.0,0,1,2,0.0,0.0,0,C,3,2,1
+Mrs,Brown, James Joseph (Margaret Tobin),1.0,1.0,1,0,2,0.0,0.0,0,C,6,1,1
+Mrs,Brown, John Murray (Caroline Lane Lamson),1.0,1.0,1,0,3,2.0,0.0,0,S,D,2,1
+Mrs,Bucknell, William Robert (Emma Eliza Ward),1.0,1.0,1,0,3,0.0,0.0,0,C,8,3,1
+Miss,Burns, Elizabeth Margaret,1.0,1.0,1,0,2,0.0,0.0,1,C,3,4,1
+Major,Butt, Archibald Willingham,1.0,0.0,0,1,2,0.0,0.0,0,S,3,1,1
+Mr,Cairns, Alexander,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Calderhead, Edward Pennington,1.0,1.0,0,1,2,0.0,0.0,0,S,5,4,1
+Mrs,Candee, Edward (Helen Churchill Hungerford),1.0,1.0,1,0,3,0.0,0.0,0,C,6,2,1
+Mr,Cardeza, Thomas Drake Martinez,1.0,1.0,0,1,2,0.0,1.0,4,C,3,1,1
+Mrs,Cardeza, James Warburton Martinez (Charlotte Wardle Drake),1.0,1.0,1,0,3,0.0,1.0,4,C,3,1,1
+Mr,Carlsson, Frans Olof,1.0,0.0,0,1,2,0.0,0.0,0,S,3,1,1
+Mr,Carrau, Francisco M,1.0,0.0,0,1,1,0.0,0.0,0,S,3,2,1
+Mr,Carrau, Jose Pedro,1.0,0.0,0,1,1,0.0,0.0,0,S,3,2,1
+Master,Carter, William Thornton II,1.0,1.0,0,1,0,1.0,2.0,1,S,4,1,1
+Miss,Carter, Lucile Polk,1.0,1.0,1,0,0,1.0,2.0,1,S,4,1,1
+Mr,Carter, William Ernest,1.0,1.0,0,1,2,1.0,2.0,1,S,C,1,1
+Mrs,Carter, William Ernest (Lucile Polk),1.0,1.0,1,0,2,1.0,2.0,1,S,4,1,1
+Mr,Case, Howard Brown,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Mrs,Cassebeer, Henry Arthur Jr (Eleanor Genevieve Fosdick),1.0,1.0,1,0,2,0.0,0.0,0,C,5,2,1
+Mr,Cavendish, Tyrell William,1.0,0.0,0,1,2,1.0,0.0,0,S,3,2,1
+Mrs,Cavendish, Tyrell William (Julia Florence Siegel),1.0,1.0,1,0,4,1.0,0.0,0,S,6,2,1
+Mr,Chaffee, Herbert Fuller,1.0,0.0,0,1,2,1.0,0.0,0,S,3,4,1
+Mrs,Chaffee, Herbert Fuller (Carrie Constance Toogood),1.0,1.0,1,0,2,1.0,0.0,0,S,4,4,1
+Mr,Chambers, Norman Campbell,1.0,1.0,0,1,1,1.0,0.0,0,S,5,4,1
+Mrs,Chambers, Norman Campbell (Bertha Griggs),1.0,1.0,1,0,2,1.0,0.0,0,S,5,4,1
+Miss,Chaudanson, Victorine,1.0,1.0,1,0,2,0.0,0.0,2,C,4,1,1
+Miss,Cherry, Gladys,1.0,1.0,1,0,1,0.0,0.0,0,S,8,1,1
+Mr,Chevre, Paul Romaine,1.0,1.0,0,1,2,0.0,0.0,0,C,7,0,1
+Mrs,Chibnall, (Edith Martha Bowerman),1.0,1.0,1,0,2,0.0,1.0,0,S,6,4,1
+Mr,Chisholm, Roderick Robert Crispin,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Clark, Walter Miller,1.0,0.0,0,1,1,1.0,0.0,1,C,3,2,1
+Mrs,Clark, Walter Miller (Virginia McDowell),1.0,1.0,1,0,1,1.0,0.0,1,C,4,2,1
+Miss,Cleaver, Alice,1.0,1.0,1,0,1,0.0,0.0,1,S,11,2,1
+Mr,Clifford, George Quincy,1.0,0.0,0,1,2,0.0,0.0,0,S,3,0,1
+Mr,Colley, Edward Pomeroy,1.0,0.0,0,1,2,0.0,0.0,0,S,3,4,1
+Miss,Compton, Sara Rebecca,1.0,1.0,1,0,2,1.0,1.0,0,C,14,4,1
+Mr,Compton, Alexander Taylor Jr,1.0,0.0,0,1,2,1.0,1.0,0,C,3,4,1
+Mrs,Compton, Alexander Taylor (Mary Eliza Ingersoll),1.0,1.0,1,0,3,0.0,2.0,0,C,14,4,1
+Mrs,Cornell, Robert Clifford (Malvina Helen Lamson),1.0,1.0,1,0,3,2.0,0.0,0,S,2,2,1
+Mr,Crafton, John Bertram,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Capt,Crosby, Edward Gifford,1.0,0.0,0,1,4,1.0,1.0,0,S,3,1,1
+Miss,Crosby, Harriet R,1.0,1.0,1,0,2,0.0,2.0,0,S,7,1,1
+Mrs,Crosby, Edward Gifford (Catherine Elizabeth Halstead),1.0,1.0,1,0,3,1.0,1.0,0,S,7,1,1
+Mr,Cumings, John Bradley,1.0,0.0,0,1,2,1.0,0.0,0,C,3,2,1
+Mrs,Cumings, John Bradley (Florence Briggs Thayer),1.0,1.0,1,0,2,1.0,0.0,0,C,4,2,1
+Mr,Daly, Peter Denis ,1.0,1.0,0,1,3,0.0,0.0,0,S,5 9,4,1
+Mr,Daniel, Robert Williams,1.0,1.0,0,1,1,0.0,0.0,0,S,3,2,1
+Miss,Daniels, Sarah,1.0,1.0,1,0,2,0.0,0.0,1,S,8,2,1
+Mr,Davidson, Thornton,1.0,0.0,0,1,1,1.0,0.0,0,S,3,1,1
+Mrs,Davidson, Thornton (Orian Hays),1.0,1.0,1,0,1,1.0,2.0,0,S,3,1,1
+Mr,Dick, Albert Adrian,1.0,1.0,0,1,1,1.0,0.0,0,S,3,1,1
+Mrs,Dick, Albert Adrian (Vera Gillespie),1.0,1.0,1,0,1,1.0,0.0,0,S,3,1,1
+Dr,Dodge, Washington,1.0,1.0,0,1,3,1.0,1.0,0,S,13,0,1
+Master,Dodge, Washington,1.0,1.0,0,1,0,0.0,2.0,0,S,5,0,1
+Mrs,Dodge, Washington (Ruth Vidaver),1.0,1.0,1,0,3,1.0,1.0,0,S,5,0,1
+Mr,Douglas, Walter Donald,1.0,0.0,0,1,3,1.0,0.0,1,C,3,2,1
+Mrs,Douglas, Frederick Charles (Mary Helene Baxter),1.0,1.0,1,0,1,1.0,1.0,2,C,6,1,1
+Mrs,Douglas, Walter Donald (Mahala Dutton),1.0,1.0,1,0,2,1.0,0.0,1,C,2,2,1
+Lady,Duff Gordon," (Lucille Christiana Sutherland) (""Mrs Morgan"")",1.0,1.0,1,0,2,1.0,0.0,0,C,1,0,1
+Sir,Duff Gordon," Cosmo Edmund (""Mr Morgan"")",1.0,1.0,0,1,3,1.0,0.0,0,C,1,0,1
+Mr,Dulles, William Crothers,1.0,0.0,0,1,2,0.0,0.0,0,C,3,0,1
+Mrs,Earnshaw, Boulton (Olive Potter),1.0,1.0,1,0,1,0.0,1.0,0,C,7,2,1
+Miss,Endres, Caroline Louise,1.0,1.0,1,0,2,0.0,0.0,2,C,4,2,1
+Miss,Eustis, Elizabeth Mussey,1.0,1.0,1,0,3,1.0,0.0,0,C,4,3,1
+Miss,Evans, Edith Corse,1.0,0.0,1,0,2,0.0,0.0,0,C,8,0,1
+Mr,Farthing, John,1.0,0.0,0,1,2,0.0,0.0,2,S,3,2,1
+Mrs,Flegenheim, Alfred (Antoinette),1.0,1.0,1,0,2,0.0,0.0,0,S,7,2,1
+Miss,Fleming, Margaret,1.0,1.0,1,0,2,0.0,0.0,1,C,4,2,1
+Mr,Flynn," John Irwin (""Irving"")",1.0,1.0,0,1,2,0.0,0.0,0,S,5,4,1
+Mr,Foreman, Benjamin Laventall,1.0,0.0,0,1,1,0.0,0.0,0,C,3,2,1
+Miss,Fortune, Alice Elizabeth,1.0,1.0,1,0,1,3.0,2.0,2,S,10,2,1
+Miss,Fortune, Ethel Flora,1.0,1.0,1,0,1,3.0,2.0,2,S,10,2,1
+Miss,Fortune, Mabel Helen,1.0,1.0,1,0,1,3.0,2.0,2,S,10,2,1
+Mr,Fortune, Charles Alexander,1.0,0.0,0,1,1,3.0,2.0,2,S,3,2,1
+Mr,Fortune, Mark,1.0,0.0,0,1,3,1.0,4.0,2,S,3,2,1
+Mrs,Fortune, Mark (Mary McDougald),1.0,1.0,1,0,3,1.0,4.0,2,S,10,2,1
+Miss,Francatelli, Laura Mabel,1.0,1.0,1,0,1,0.0,0.0,0,C,1,4,1
+Mr,Franklin, Thomas Parham,1.0,0.0,0,1,2,0.0,0.0,0,S,3,3,1
+Dr,Frauenthal, Henry William,1.0,1.0,0,1,3,2.0,0.0,1,S,5,2,1
+Mr,Frauenthal, Isaac Gerald,1.0,1.0,0,1,2,1.0,0.0,0,C,5,3,1
+Mrs,Frauenthal, Henry William (Clara Heinsheimer),1.0,1.0,1,0,2,1.0,0.0,1,S,5,2,1
+Miss,Frolicher, Hedwig Margaritha,1.0,1.0,1,0,1,0.0,2.0,0,C,5,1,1
+Mr,Frolicher-Stehli, Maxmillian,1.0,1.0,0,1,3,1.0,1.0,0,C,5,1,1
+Mrs,Frolicher-Stehli, Maxmillian (Margaretha Emerentia Stehli),1.0,1.0,1,0,2,1.0,1.0,0,C,5,1,1
+Mr,Fry, Richard,1.0,0.0,0,1,2,0.0,0.0,0,S,3,1,1
+Mr,Futrelle, Jacques Heath,1.0,0.0,0,1,2,1.0,0.0,0,S,3,2,1
+Mrs,Futrelle, Jacques Heath (Lily May Peel),1.0,1.0,1,0,2,1.0,0.0,0,S,D,2,1
+Mr,Gee, Arthur H,1.0,0.0,0,1,2,0.0,0.0,0,S,3,4,1
+Miss,Geiger, Amalie,1.0,1.0,1,0,2,0.0,0.0,2,C,4,2,1
+Miss,Gibson, Dorothy Winifred,1.0,1.0,1,0,1,0.0,1.0,0,C,7,2,1
+Mrs,Gibson, Leonard (Pauline C Boeson),1.0,1.0,1,0,2,0.0,1.0,0,C,7,2,1
+Mr,Giglio, Victor,1.0,0.0,0,1,1,0.0,0.0,0,C,3,1,1
+Mr,Goldenberg, Samuel L,1.0,1.0,0,1,3,1.0,0.0,0,C,5,2,1
+Mrs,Goldenberg, Samuel L (Edwiga Grabowska),1.0,1.0,1,0,2,1.0,0.0,0,C,5,2,1
+Mr,Goldschmidt, George B,1.0,0.0,0,1,4,0.0,0.0,0,C,3,0,1
+Col,Gracie, Archibald IV,1.0,1.0,0,1,3,0.0,0.0,0,C,B,2,1
+Miss,Graham, Margaret Edith,1.0,1.0,1,0,1,0.0,0.0,0,S,3,1,1
+Mr,Graham, George Edward,1.0,0.0,0,1,2,0.0,1.0,1,S,3,2,1
+Mrs,Graham, William Thompson (Edith Junkins),1.0,1.0,1,0,3,0.0,1.0,1,S,3,2,1
+Mr,Greenfield, William Bertram,1.0,1.0,0,1,1,0.0,1.0,0,C,7,3,1
+Mrs,Greenfield, Leo David (Blanche Strouse),1.0,1.0,1,0,2,0.0,1.0,0,C,7,3,1
+Mr,Guggenheim, Benjamin,1.0,0.0,0,1,2,0.0,0.0,0,C,3,1,1
+Mr,Harder, George Achilles,1.0,1.0,0,1,1,1.0,0.0,0,C,5,4,1
+Mrs,Harder, George Achilles (Dorothy Annan),1.0,1.0,1,0,1,1.0,0.0,0,C,5,4,1
+Mr,Harper, Henry Sleeper,1.0,1.0,0,1,2,1.0,0.0,0,C,3,3,1
+Mrs,Harper, Henry Sleeper (Myna Haxtun),1.0,1.0,1,0,3,1.0,0.0,0,C,3,3,1
+Mr,Harrington, Charles H,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Harris, Henry Birkhardt,1.0,0.0,0,1,2,1.0,0.0,0,S,3,2,1
+Mrs,Harris, Henry Birkhardt (Irene Wallach),1.0,1.0,1,0,2,1.0,0.0,0,S,D,2,1
+Mr,Harrison, William,1.0,0.0,0,1,2,0.0,0.0,0,S,3,1,1
+Mr,Hassab, Hammad,1.0,1.0,0,1,1,0.0,0.0,0,C,3,3,1
+Mr,Hawksford, Walter James,1.0,1.0,0,1,2,0.0,0.0,0,S,3,3,1
+Miss,Hays, Margaret Bechstein,1.0,1.0,1,0,1,0.0,0.0,0,C,7,2,1
+Mr,Hays, Charles Melville,1.0,0.0,0,1,3,1.0,1.0,0,S,3,1,1
+Mrs,Hays, Charles Melville (Clara Jennings Gregg),1.0,1.0,1,0,3,1.0,1.0,0,S,3,1,1
+Mr,Head, Christopher,1.0,0.0,0,1,2,0.0,0.0,0,S,3,1,1
+Mr,Hilliard, Herbert Henry,1.0,0.0,0,1,2,0.0,0.0,0,S,3,4,1
+Mr,Hipkins, William Edward,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Miss,Hippach, Jean Gertrude,1.0,1.0,1,0,0,0.0,1.0,0,C,4,1,1
+Mrs,Hippach, Louis Albert (Ida Sophia Fischer),1.0,1.0,1,0,2,0.0,1.0,0,C,4,1,1
+Mrs,Hogeboom, John C (Anna Andrews),1.0,1.0,1,0,3,1.0,0.0,0,S,10,3,1
+Mr,Holverson, Alexander Oskar,1.0,0.0,0,1,2,1.0,0.0,0,S,3,2,1
+Mrs,Holverson, Alexander Oskar (Mary Aline Towner),1.0,1.0,1,0,2,1.0,0.0,0,S,8,2,1
+Mr,Homer," Harry (""Mr E Haven"")",1.0,1.0,0,1,2,0.0,0.0,0,C,15,2,1
+Mr,Hoyt, Frederick Maxfield,1.0,1.0,0,1,2,1.0,0.0,0,S,D,2,1
+Mr,Hoyt, William Fisher,1.0,0.0,0,1,2,0.0,0.0,0,C,14,2,1
+Mrs,Hoyt, Frederick Maxfield (Jane Anne Forby),1.0,1.0,1,0,2,1.0,0.0,0,S,D,2,1
+Miss,Icard, Amelie,1.0,1.0,1,0,2,0.0,0.0,0,S,6,1,1
+Miss,Isham, Ann Elizabeth,1.0,0.0,1,0,3,0.0,0.0,0,C,8,2,1
+Mr,Ismay, Joseph Bruce,1.0,1.0,0,1,3,0.0,0.0,0,S,C,1,1
+Mr,Jones, Charles Cresson,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Julian, Henry Forbes,1.0,0.0,0,1,3,0.0,0.0,0,S,3,4,1
+Mr,Keeping, Edwin,1.0,0.0,0,1,2,0.0,0.0,2,C,3,2,1
+Mr,Kent, Edward Austin,1.0,0.0,0,1,3,0.0,0.0,0,C,3,1,1
+Mr,Kenyon, Frederick R,1.0,0.0,0,1,2,1.0,0.0,0,S,3,3,1
+Mrs,Kenyon, Frederick R (Marion),1.0,1.0,1,0,2,1.0,0.0,0,S,8,3,1
+Mr,Kimball, Edwin Nelson Jr,1.0,1.0,0,1,2,1.0,0.0,0,S,5,3,1
+Mrs,Kimball, Edwin Nelson Jr (Gertrude Parsons),1.0,1.0,1,0,2,1.0,0.0,0,S,5,3,1
+Mr,Klaber, Herman,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Miss,Kreuchen, Emilie,1.0,1.0,1,0,2,0.0,0.0,2,S,2,2,1
+Dr,Leader, Alice (Farnham),1.0,1.0,1,0,3,0.0,0.0,0,S,8,3,1
+Miss,LeRoy, Bertha,1.0,1.0,1,0,1,0.0,0.0,1,C,2,2,1
+Mr,Lesurer, Gustave J,1.0,1.0,0,1,2,0.0,0.0,4,C,3,1,1
+Mr,Lewy, Ervin G,1.0,0.0,0,1,2,0.0,0.0,0,C,3,2,1
+Mr,Lindeberg-Lind," Erik Gustaf (""Mr Edward Lingrey"")",1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mrs,Lindstrom, Carl Johan (Sigrid Posse),1.0,1.0,1,0,3,0.0,0.0,0,C,6,2,1
+Miss,Lines, Mary Conover,1.0,1.0,1,0,0,0.0,1.0,0,S,9,3,1
+Mrs,Lines, Ernest H (Elizabeth Lindsey James),1.0,1.0,1,0,3,0.0,1.0,0,S,9,3,1
+Mr,Long, Milton Clyde,1.0,0.0,0,1,1,0.0,0.0,0,S,3,3,1
+Miss,Longley, Gretchen Fiske,1.0,1.0,1,0,1,0.0,0.0,0,S,10,3,1
+Mr,Loring, Joseph Holland,1.0,0.0,0,1,1,0.0,0.0,0,S,3,2,1
+Miss,Lurette, Elise,1.0,1.0,1,0,3,0.0,0.0,1,C,13,1,1
+Miss,Madill, Georgette Alexandra,1.0,1.0,1,0,0,0.0,1.0,2,S,2,1,1
+Mr,Maguire, John Edward,1.0,0.0,0,1,1,0.0,0.0,0,S,3,2,1
+Miss,Maioni, Roberta,1.0,1.0,1,0,0,0.0,0.0,0,S,8,1,1
+Mr,Marechal, Pierre,1.0,1.0,0,1,2,0.0,0.0,0,C,7,2,1
+Mr,Marvin, Daniel Warner,1.0,0.0,0,1,1,1.0,0.0,0,S,3,3,1
+Mrs,Marvin, Daniel Warner (Mary Graham Carmichael Farquarson),1.0,1.0,1,0,1,1.0,0.0,0,S,10,3,1
+Mlle,Mayne," Berthe Antonine (""Mrs de Villiers"")",1.0,1.0,1,0,1,0.0,0.0,0,C,6,2,1
+Mr,McCaffry, Thomas Francis,1.0,0.0,0,1,2,0.0,0.0,0,C,3,2,1
+Mr,McCarthy, Timothy J,1.0,0.0,0,1,3,0.0,0.0,0,S,3,4,1
+Mr,McGough, James Robert,1.0,1.0,0,1,2,0.0,0.0,0,S,7,4,1
+Mr,Meyer, Edgar Joseph,1.0,0.0,0,1,1,1.0,0.0,0,C,3,2,1
+Mrs,Meyer, Edgar Joseph (Leila Saks),1.0,1.0,1,0,2,1.0,0.0,0,C,6,2,1
+Mr,Millet, Francis Davis,1.0,0.0,0,1,4,0.0,0.0,0,S,3,4,1
+Dr,Minahan, William Edward,1.0,0.0,0,1,2,2.0,0.0,0,Q,3,2,1
+Miss,Minahan, Daisy E,1.0,1.0,1,0,2,1.0,0.0,0,Q,14,2,1
+Mrs,Minahan, William Edward (Lillian E Thorpe),1.0,1.0,1,0,2,1.0,0.0,0,Q,14,2,1
+Mr,Mock, Philipp Edmund,1.0,1.0,0,1,1,1.0,0.0,0,C,11,2,1
+Mr,Molson, Harry Markland,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Mr,Moore, Clarence Bloomfield,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Natsch, Charles H,1.0,0.0,0,1,2,0.0,1.0,0,C,3,2,1
+Miss,Newell, Madeleine,1.0,1.0,1,0,1,1.0,0.0,1,C,6,3,1
+Miss,Newell, Marjorie,1.0,1.0,1,0,1,1.0,0.0,1,C,6,3,1
+Mr,Newell, Arthur Webster,1.0,0.0,0,1,3,0.0,2.0,1,C,3,3,1
+Miss,Newsom, Helen Monypeny,1.0,1.0,1,0,1,0.0,2.0,0,S,5,3,1
+Mr,Nicholson, Arthur Ernest,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Dona,Oliva y Ocana, Fermina,1.0,1.0,1,0,2,0.0,0.0,1,C,8,2,1
+Mr,Omont, Alfred Fernand,1.0,1.0,0,1,2,0.0,0.0,0,C,7,2,1
+Miss,Ostby, Helene Ragnhild,1.0,1.0,1,0,1,0.0,1.0,0,C,5,1,1
+Mr,Ostby, Engelhart Cornelius,1.0,0.0,0,1,4,0.0,1.0,0,C,3,1,1
+Mr,Ovies y Rodriguez, Servando,1.0,0.0,0,1,1,0.0,0.0,0,C,3,3,1
+Mr,Parr, William Henry Marsh,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Partner, Austen,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Payne, Vivian Ponsonby,1.0,0.0,0,1,1,0.0,0.0,0,S,3,1,1
+Mr,Pears, Thomas Clinton,1.0,0.0,0,1,1,1.0,0.0,0,S,3,2,1
+Mrs,Pears, Thomas (Edith Wearne),1.0,1.0,1,0,1,1.0,0.0,0,S,8,2,1
+Mr,Penasco y Castellana, Victor de Satode,1.0,0.0,0,1,1,1.0,0.0,1,C,3,2,1
+Mrs,Penasco y Castellana, Victor de Satode (Maria Josefa Perez de Soto y Vallejo),1.0,1.0,1,0,1,1.0,0.0,1,C,8,2,1
+Miss,Perreault, Anne,1.0,1.0,1,0,1,0.0,0.0,0,S,3,1,1
+Major,Peuchen, Arthur Godfrey,1.0,1.0,0,1,3,0.0,0.0,0,S,6,2,1
+Mr,Porter, Walter Chamberlain,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mrs,Potter, Thomas Jr (Lily Alexenia Wilson),1.0,1.0,1,0,3,0.0,1.0,0,C,7,2,1
+Jonkheer,Reuchlin, John George,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mr,Rheims, George Alexander Lucien,1.0,1.0,0,1,2,0.0,0.0,0,S,A,2,1
+Mr,Ringhini, Sante,1.0,0.0,0,1,1,0.0,0.0,1,C,3,2,1
+Mr,Robbins, Victor,1.0,0.0,0,1,2,0.0,0.0,2,C,3,2,1
+Mrs,Robert, Edward Scott (Elisabeth Walton McMillan),1.0,1.0,1,0,2,0.0,1.0,2,S,2,1,1
+Mr,Roebling, Washington Augustus II,1.0,0.0,0,1,1,0.0,0.0,0,S,3,0,1
+Mr,Romaine," Charles Hallace (""Mr C Rolmane"")",1.0,1.0,0,1,2,0.0,0.0,0,S,9,2,1
+Mr,Rood, Hugh Roscoe,1.0,0.0,0,1,2,0.0,0.0,0,S,3,0,1
+Miss,Rosenbaum, Edith Louise,1.0,1.0,1,0,2,0.0,0.0,0,C,11,0,1
+Mr,Rosenshine," George (""Mr George Thorne"")",1.0,0.0,0,1,2,0.0,0.0,0,C,3,2,1
+Mr,Ross, John Hugo,1.0,0.0,0,1,2,0.0,0.0,0,C,3,0,1
+the Countess,Rothes, of (Lucy Noel Martha Dyer-Edwards),1.0,1.0,1,0,2,0.0,0.0,0,S,8,1,1
+Mr,Rothschild, Martin,1.0,0.0,0,1,3,1.0,0.0,0,C,3,2,1
+Mrs,Rothschild, Martin (Elizabeth L,1.0,1.0,1,0,3,1.0,0.0,0,C,6,2,1
+Mr,Rowe, Alfred G,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Master,Ryerson, John Borie,1.0,1.0,0,1,0,2.0,2.0,2,C,4,1,1
+Miss,Ryerson, Emily Borie,1.0,1.0,1,0,1,2.0,2.0,2,C,4,1,1
+Miss,Ryerson," Susan Parker ""Suzette""",1.0,1.0,1,0,1,2.0,2.0,2,C,4,1,1
+Mr,Ryerson, Arthur Larned,1.0,0.0,0,1,3,1.0,3.0,2,C,3,1,1
+Mrs,Ryerson, Arthur Larned (Emily Maria Borie),1.0,1.0,1,0,2,1.0,3.0,2,C,4,1,1
+Mr,Saalfeld, Adolphe,1.0,1.0,0,1,2,0.0,0.0,0,S,3,2,1
+Mlle,Sagesser, Emma,1.0,1.0,1,0,1,0.0,0.0,0,C,9,1,1
+Mr,Salomon, Abraham L,1.0,1.0,0,1,2,0.0,0.0,0,S,1,2,1
+Mrs,Schabert, Paul (Emma Mock),1.0,1.0,1,0,2,1.0,0.0,0,C,11,2,1
+Miss,Serepeca, Augusta,1.0,1.0,1,0,1,0.0,0.0,0,C,4,2,1
+Mr,Seward, Frederic Kimber,1.0,1.0,0,1,2,0.0,0.0,0,S,7,2,1
+Miss,Shutes, Elizabeth W,1.0,1.0,1,0,2,0.0,0.0,1,S,3,2,1
+Mr,Silverthorne, Spencer Victor,1.0,1.0,0,1,2,0.0,0.0,0,S,5,4,1
+Mr,Silvey, William Baird,1.0,0.0,0,1,3,1.0,0.0,0,S,3,4,1
+Mrs,Silvey, William Baird (Alice Munger),1.0,1.0,1,0,2,1.0,0.0,0,S,11,4,1
+Col,Simonius-Blumer, Oberst Alfons,1.0,1.0,0,1,3,0.0,0.0,0,C,3,0,1
+Mr,Sloper, William Thompson,1.0,1.0,0,1,1,0.0,0.0,0,S,7,0,1
+Mr,Smart, John Montgomery,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Mr,Smith, James Clinch,1.0,0.0,0,1,3,0.0,0.0,0,C,3,0,1
+Mr,Smith, Lucien Philip,1.0,0.0,0,1,1,1.0,0.0,0,S,3,2,1
+Mr,Smith, Richard William,1.0,0.0,0,1,2,0.0,0.0,0,S,3,0,1
+Mrs,Smith, Lucien Philip (Mary Eloise Hughes),1.0,1.0,1,0,1,1.0,0.0,0,S,6,2,1
+Mr,Snyder, John Pillsbury,1.0,1.0,0,1,1,1.0,0.0,0,S,7,1,1
+Mrs,Snyder, John Pillsbury (Nelle Stevenson),1.0,1.0,1,0,1,1.0,0.0,0,S,7,1,1
+Master,Spedden, Robert Douglas,1.0,1.0,0,1,0,0.0,2.0,1,C,3,4,1
+Mr,Spedden, Frederic Oakley,1.0,1.0,0,1,2,1.0,1.0,1,C,3,4,1
+Mrs,Spedden, Frederic Oakley (Margaretta Corning Stone),1.0,1.0,1,0,2,1.0,1.0,1,C,3,4,1
+Mr,Spencer, William Augustus,1.0,0.0,0,1,3,1.0,0.0,1,C,3,1,1
+Mrs,Spencer, William Augustus (Marie Eugenie),1.0,1.0,1,0,2,1.0,0.0,1,C,6,1,1
+Dr,Stahelin-Maeglin, Max,1.0,1.0,0,1,1,0.0,0.0,0,C,3,1,1
+Mr,Stead, William Thomas,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Mr,Stengel, Charles Emil Henry,1.0,1.0,0,1,3,1.0,0.0,0,C,1,2,1
+Mrs,Stengel, Charles Emil Henry (Annie May Morris),1.0,1.0,1,0,2,1.0,0.0,0,C,5,2,1
+Mrs,Stephenson, Walter Bertram (Martha Eustis),1.0,1.0,1,0,3,1.0,0.0,0,C,4,3,1
+Mr,Stewart, Albert A,1.0,0.0,0,1,2,0.0,0.0,0,C,3,2,1
+Mrs,Stone, George Nelson (Martha Evelyn),1.0,1.0,1,0,3,0.0,0.0,0,S,6,1,1
+Mr,Straus, Isidor,1.0,0.0,0,1,4,1.0,0.0,2,S,3,2,1
+Mrs,Straus, Isidor (Rosalie Ida Blun),1.0,0.0,1,0,3,1.0,0.0,2,S,8,2,1
+Mr,Sutton, Frederick,1.0,0.0,0,1,3,0.0,0.0,0,S,3,3,1
+Mrs,Swift, Frederick Joel (Margaret Welles Barron),1.0,1.0,1,0,2,0.0,0.0,0,S,8,3,1
+Miss,Taussig, Ruth,1.0,1.0,1,0,1,0.0,2.0,0,S,8,4,1
+Mr,Taussig, Emil,1.0,0.0,0,1,3,1.0,1.0,0,S,3,4,1
+Mrs,Taussig, Emil (Tillie Mandelbaum),1.0,1.0,1,0,2,1.0,1.0,0,S,8,4,1
+Mr,Taylor, Elmer Zebley,1.0,1.0,0,1,2,1.0,0.0,0,S,5 7,2,1
+Mrs,Taylor, Elmer Zebley (Juliet Cummins Wright),1.0,1.0,1,0,2,1.0,0.0,0,S,5 7,2,1
+Mr,Thayer, John Borland,1.0,0.0,0,1,3,1.0,1.0,1,C,3,2,1
+Mr,Thayer, John Borland Jr,1.0,1.0,0,1,1,0.0,2.0,1,C,B,2,1
+Mrs,Thayer, John Borland (Marian Longstreth Morris),1.0,1.0,1,0,2,1.0,1.0,1,C,4,2,1
+Mrs,Thorne, Gertrude Maybelle,1.0,1.0,1,0,2,0.0,0.0,0,C,D,2,1
+Mr,Tucker, Gilbert Milligan Jr,1.0,1.0,0,1,1,0.0,0.0,0,C,7,2,1
+Don,Uruchurtu, Manuel E,1.0,0.0,0,1,2,0.0,0.0,0,C,3,2,1
+Mr,Van der hoef, Wyckoff,1.0,0.0,0,1,3,0.0,0.0,0,S,3,1,1
+Mr,Walker, William Anderson,1.0,0.0,0,1,2,0.0,0.0,0,S,3,3,1
+Miss,Ward, Anna,1.0,1.0,1,0,2,0.0,0.0,4,C,3,2,1
+Mr,Warren, Frank Manley,1.0,0.0,0,1,3,1.0,0.0,0,C,3,3,1
+Mrs,Warren, Frank Manley (Anna Sophia Atkinson),1.0,1.0,1,0,3,1.0,0.0,0,C,5,3,1
+Col,Weir, John,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Mr,White, Percival Wayland,1.0,0.0,0,1,3,0.0,1.0,0,S,3,3,1
+Mr,White, Richard Frasar,1.0,0.0,0,1,1,0.0,1.0,0,S,3,3,1
+Mrs,White, John Stuart (Ella Holmes),1.0,1.0,1,0,3,0.0,0.0,1,C,8,2,1
+Miss,Wick, Mary Natalie,1.0,1.0,1,0,1,0.0,2.0,1,S,8,2,1
+Mr,Wick, George Dennick,1.0,0.0,0,1,3,1.0,1.0,1,S,3,2,1
+Mrs,Wick, George Dennick (Mary Hitchcock),1.0,1.0,1,0,2,1.0,1.0,1,S,8,2,1
+Mr,Widener, George Dunton,1.0,0.0,0,1,3,1.0,1.0,2,C,3,2,1
+Mr,Widener, Harry Elkins,1.0,0.0,0,1,1,0.0,2.0,2,C,3,2,1
+Mrs,Widener, George Dunton (Eleanor Elkins),1.0,1.0,1,0,3,1.0,1.0,2,C,4,2,1
+Miss,Willard, Constance,1.0,1.0,1,0,1,0.0,0.0,0,S,8 10,2,1
+Mr,Williams, Charles Duane,1.0,0.0,0,1,3,0.0,1.0,0,C,3,2,1
+Mr,Williams, Richard Norris II,1.0,1.0,0,1,1,0.0,1.0,0,C,A,2,1
+Mr,Williams-Lambert, Fletcher Fellows,1.0,0.0,0,1,2,0.0,0.0,0,S,3,2,1
+Miss,Wilson, Helen Alice,1.0,1.0,1,0,1,0.0,0.0,1,C,3,4,1
+Mr,Woolner, Hugh,1.0,1.0,0,1,2,0.0,0.0,0,S,D,2,1
+Mr,Wright, George,1.0,0.0,0,1,3,0.0,0.0,0,S,3,2,1
+Miss,Young, Marie Grice,1.0,1.0,1,0,2,0.0,0.0,1,C,8,2,1
+Mr,Abelson, Samuel,2.0,0.0,0,1,1,1.0,0.0,0,C,13,3,1
+Mrs,Abelson, Samuel (Hannah Wizosky),2.0,1.0,1,0,1,1.0,0.0,0,C,10,3,1
+Mr,Aldworth, Charles Augustus,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Andrew, Edgardo Samuel,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Andrew, Frank Thomas,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Angle, William A,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Mrs,Angle," William A (Florence ""Mary"" Agnes Hughes)",2.0,1.0,1,0,2,1.0,0.0,0,S,11,3,1
+Mr,Ashby, John,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Mr,Bailey, Percy Andrew,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Baimbrigge, Charles Robert,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Ball, (Ada E Hall),2.0,1.0,1,0,2,0.0,0.0,0,S,10,3,1
+Mr,Banfield, Frederick James,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Rev,Bateman, Robert James,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Mr,Beane, Edward,2.0,1.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mrs,Beane, Edward (Ethel Clarke),2.0,1.0,1,0,1,1.0,0.0,0,S,13,3,1
+Mr,Beauchamp, Henry James,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Master,Becker, Richard F,2.0,1.0,0,1,0,2.0,1.0,0,S,11,5,1
+Miss,Becker, Marion Louise,2.0,1.0,1,0,0,2.0,1.0,0,S,11,5,1
+Miss,Becker, Ruth Elizabeth,2.0,1.0,1,0,0,2.0,1.0,0,S,13,5,1
+Mrs,Becker, Allen Oliver (Nellie E Baumgardner),2.0,1.0,1,0,2,0.0,3.0,0,S,11,5,1
+Mr,Beesley, Lawrence,2.0,1.0,0,1,2,0.0,0.0,0,S,13,3,1
+Miss,Bentham, Lilian W,2.0,1.0,1,0,1,0.0,0.0,0,S,12,3,1
+Mr,Berriman, William John,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Botsford, William Hull,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Bowenur, Solomon,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Bracken, James H,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Miss,Brown," Amelia ""Mildred""",2.0,1.0,1,0,1,0.0,0.0,0,S,11,5,1
+Miss,Brown, Edith Eileen,2.0,1.0,1,0,0,0.0,2.0,0,S,14,3,1
+Mr,Brown, Thomas William Solomon,2.0,0.0,0,1,3,1.0,1.0,0,S,13,3,1
+Mrs,Brown, Thomas William Solomon (Elizabeth Catherine Ford),2.0,1.0,1,0,2,1.0,1.0,0,S,14,3,1
+Miss,Bryhl, Dagmar Jenny Ingeborg ,2.0,1.0,1,0,1,1.0,0.0,0,S,12,3,1
+Mr,Bryhl, Kurt Arnold Gottfrid,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Miss,Buss, Kate,2.0,1.0,1,0,2,0.0,0.0,0,S,9,3,1
+Mr,Butler, Reginald Fenton,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Rev,Byles, Thomas Roussel Davids,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mrs,Bystrom, (Karolina),2.0,1.0,1,0,2,0.0,0.0,0,S,13,3,1
+Master,Caldwell, Alden Gates,2.0,1.0,0,1,0,0.0,2.0,0,S,13,3,1
+Mr,Caldwell, Albert Francis,2.0,1.0,0,1,1,1.0,1.0,0,S,13,3,1
+Mrs,Caldwell, Albert Francis (Sylvia Mae Harbaugh),2.0,1.0,1,0,1,1.0,1.0,0,S,13,3,1
+Miss,Cameron, Clear Annie,2.0,1.0,1,0,2,0.0,0.0,0,S,14,3,1
+Mr,Campbell, William,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Carbines, William,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Carter, Ernest Courtenay (Lilian Hughes),2.0,0.0,1,0,2,1.0,0.0,0,S,14,3,1
+Rev,Carter, Ernest Courtenay,2.0,0.0,0,1,3,1.0,0.0,0,S,13,3,1
+Mr,Chapman, Charles Henry,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Mr,Chapman, John Henry,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Mrs,Chapman, John Henry (Sara Elizabeth Lawry),2.0,0.0,1,0,1,1.0,0.0,0,S,14,3,1
+Miss,Christy, Julie Rachel,2.0,1.0,1,0,1,1.0,1.0,0,S,12,3,1
+Mrs,Christy, (Alice Frances),2.0,1.0,1,0,2,0.0,2.0,0,S,12,3,1
+Mr,Clarke, Charles Valentine,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mrs,Clarke, Charles V (Ada Maria Winfield),2.0,1.0,1,0,1,1.0,0.0,0,S,14,3,1
+Mr,Coleridge, Reginald Charles,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Collander, Erik Gustaf,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Collett, Sidney C Stuart,2.0,1.0,0,1,1,0.0,0.0,0,S,9,3,1
+Miss,Collyer," Marjorie ""Lottie""",2.0,1.0,1,0,0,0.0,2.0,0,S,14,3,1
+Mr,Collyer, Harvey,2.0,0.0,0,1,1,1.0,1.0,0,S,13,3,1
+Mrs,Collyer, Harvey (Charlotte Annie Tate),2.0,1.0,1,0,1,1.0,1.0,0,S,14,3,1
+Mrs,Cook, (Selena Rogers),2.0,1.0,1,0,1,0.0,0.0,0,S,14,5,1
+Mrs,Corbett, Walter H (Irene Colvin),2.0,0.0,1,0,1,0.0,0.0,0,S,14,3,1
+Mrs,Corey, Percy C (Mary Phyllis Elizabeth Miller),2.0,0.0,1,0,1,0.0,0.0,0,S,14,3,1
+Mr,Cotterill," Henry ""Harry""",2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Cunningham, Alfred Fleming,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Master,Davies, John Morgan Jr,2.0,1.0,0,1,0,1.0,1.0,0,S,14,3,1
+Mr,Davies, Charles Henry,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Davies, John Morgan (Elizabeth Agnes Mary White) ,2.0,1.0,1,0,2,0.0,2.0,0,S,14,3,1
+Miss,Davis, Mary,2.0,1.0,1,0,1,0.0,0.0,0,S,13,3,1
+Mr,de Brito, Jose Joaquim,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Deacon, Percy William,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,del Carlo, Sebastiano,2.0,0.0,0,1,1,1.0,0.0,0,C,13,3,1
+Mrs,del Carlo, Sebastiano (Argenia Genovesi),2.0,1.0,1,0,1,1.0,0.0,0,C,12,3,1
+Mr,Denbury, Herbert,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Dibden, William,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Miss,Doling, Elsie,2.0,1.0,1,0,1,0.0,1.0,0,S,13,3,1
+Mrs,Doling, John T (Ada Julia Bone),2.0,1.0,1,0,2,0.0,1.0,0,S,13,3,1
+Mr,Downton, William James,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Master,Drew, Marshall Brines,2.0,1.0,0,1,0,0.0,2.0,0,S,10,3,1
+Mr,Drew, James Vivian,2.0,0.0,0,1,2,1.0,1.0,0,S,13,3,1
+Mrs,Drew, James Vivian (Lulu Thorne Christian),2.0,1.0,1,0,2,1.0,1.0,0,S,10,3,1
+Miss,Duran y More, Asuncion,2.0,1.0,1,0,1,1.0,0.0,0,C,12,3,1
+Miss,Duran y More, Florentina,2.0,1.0,1,0,1,1.0,0.0,0,C,12,3,1
+Mr,Eitemiller, George Floyd,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Enander, Ingvar,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Fahlstrom, Arne Jonas,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Faunthorpe, Harry,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Mrs,Faunthorpe, Lizzie (Elizabeth Anne Wilkinson),2.0,1.0,1,0,1,1.0,0.0,0,S,16,3,1
+Mr,Fillbrook, Joseph Charles,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Fox, Stanley Hubert,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Frost," Anthony Wood ""Archie""",2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Miss,Funk, Annie Clemmer,2.0,0.0,1,0,2,0.0,0.0,0,S,14,3,1
+Mr,Fynney, Joseph J,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Gale, Harry,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Mr,Gale, Shadrach,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Miss,Garside, Ethel,2.0,1.0,1,0,2,0.0,0.0,0,S,12,3,1
+Mr,Gaskell, Alfred,2.0,0.0,0,1,0,0.0,0.0,0,S,13,3,1
+Mr,Gavey, Lawrence,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Gilbert, William,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Giles, Edgar,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mr,Giles, Frederick Edward,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mr,Giles, Ralph,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Gill, John William,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Gillespie, William Henry,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Givard, Hans Kristensen,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Greenberg, Samuel,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Mr,Hale, Reginald,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Master,Hamalainen, Viljo,2.0,1.0,0,1,0,1.0,1.0,0,S,4,3,1
+Mrs,Hamalainen, William (Anna),2.0,1.0,1,0,1,0.0,2.0,0,S,4,3,1
+Mr,Harbeck, William H,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Miss,Harper," Annie Jessie ""Nina""",2.0,1.0,1,0,0,0.0,1.0,0,S,11,3,1
+Rev,Harper, John,2.0,0.0,0,1,1,0.0,1.0,0,S,13,3,1
+Mr,Harris, George,2.0,1.0,0,1,3,0.0,0.0,0,S,15,3,1
+Mr,Harris, Walter,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Miss,Hart, Eva Miriam,2.0,1.0,1,0,0,0.0,2.0,0,S,14,3,1
+Mr,Hart, Benjamin,2.0,0.0,0,1,2,1.0,1.0,0,S,13,3,1
+Mrs,Hart, Benjamin (Esther Ada Bloomfield),2.0,1.0,1,0,2,1.0,1.0,0,S,14,3,1
+Miss,Herman, Alice,2.0,1.0,1,0,1,1.0,2.0,0,S,9,3,1
+Miss,Herman, Kate,2.0,1.0,1,0,1,1.0,2.0,0,S,9,3,1
+Mr,Herman, Samuel,2.0,0.0,0,1,3,1.0,2.0,0,S,13,3,1
+Mrs,Herman, Samuel (Jane Laver),2.0,1.0,1,0,2,1.0,2.0,0,S,9,3,1
+Mrs,Hewlett, (Mary D Kingcome) ,2.0,1.0,1,0,3,0.0,0.0,0,S,13,3,1
+Mr,Hickman, Leonard Mark,2.0,0.0,0,1,1,2.0,0.0,0,S,13,3,1
+Mr,Hickman, Lewis,2.0,0.0,0,1,1,2.0,0.0,0,S,13,3,1
+Mr,Hickman, Stanley George,2.0,0.0,0,1,1,2.0,0.0,0,S,13,3,1
+Miss,Hiltunen, Marta,2.0,0.0,1,0,1,1.0,1.0,0,S,14,3,1
+Miss,Hocking," Ellen ""Nellie""",2.0,1.0,1,0,1,2.0,1.0,0,S,4,3,1
+Mr,Hocking, Richard George,2.0,0.0,0,1,1,2.0,1.0,0,S,13,3,1
+Mr,Hocking, Samuel James Metcalfe,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mrs,Hocking, Elizabeth (Eliza Needs),2.0,1.0,1,0,3,1.0,3.0,0,S,4,3,1
+Mr,Hodges, Henry Price,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Mr,Hold, Stephen,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Mrs,Hold, Stephen (Annie Margaret Hill),2.0,1.0,1,0,1,1.0,0.0,0,S,10,3,1
+Mr,Hood, Ambrose Jr,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Hosono, Masabumi,2.0,1.0,0,1,2,0.0,0.0,0,S,10,3,1
+Mr,Howard, Benjamin,2.0,0.0,0,1,3,1.0,0.0,0,S,13,3,1
+Mrs,Howard, Benjamin (Ellen Truelove Arman),2.0,0.0,1,0,3,1.0,0.0,0,S,14,3,1
+Mr,Hunt, George Henry,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Miss,Ilett, Bertha,2.0,1.0,1,0,1,0.0,0.0,0,S,13,3,1
+Mr,Jacobsohn, Sidney Samuel,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Mrs,Jacobsohn, Sidney Samuel (Amy Frances Christy),2.0,1.0,1,0,1,2.0,1.0,0,S,12,3,1
+Mr,Jarvis, John Denzil,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Jefferys, Clifford Thomas,2.0,0.0,0,1,1,2.0,0.0,0,S,13,3,1
+Mr,Jefferys, Ernest Wilfred,2.0,0.0,0,1,1,2.0,0.0,0,S,13,3,1
+Mr,Jenkin, Stephen Curnow,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Jerwan, Amin S (Marie Marthe Thuillard),2.0,1.0,1,0,1,0.0,0.0,0,C,11,3,1
+Mr,Kantor, Sinai,2.0,0.0,0,1,2,1.0,0.0,0,S,13,3,1
+Mrs,Kantor, Sinai (Miriam Sternin),2.0,1.0,1,0,1,1.0,0.0,0,S,12,3,1
+Mrs,Karnes, J Frank (Claire Bennett),2.0,0.0,1,0,1,0.0,0.0,0,S,14,3,1
+Miss,Keane, Nora A,2.0,1.0,1,0,1,0.0,0.0,0,Q,10,4,1
+Mr,Keane, Daniel,2.0,0.0,0,1,2,0.0,0.0,0,Q,13,3,1
+Mrs,Kelly," Florence ""Fannie""",2.0,1.0,1,0,2,0.0,0.0,0,S,9,3,1
+Rev,Kirkland, Charles Leonard,2.0,0.0,0,1,3,0.0,0.0,0,Q,13,3,1
+Mr,Knight, Robert J,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Kvillner, Johan Henrik Johannesson,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Lahtinen, William (Anna Sylfven),2.0,0.0,1,0,1,1.0,1.0,0,S,14,3,1
+Rev,Lahtinen, William,2.0,0.0,0,1,1,1.0,1.0,0,S,13,3,1
+Mr,Lamb, John Joseph,2.0,0.0,0,1,1,0.0,0.0,0,Q,13,3,1
+Miss,Laroche, Louise,2.0,1.0,1,0,0,1.0,2.0,0,C,14,3,1
+Miss,Laroche, Simonne Marie Anne Andree,2.0,1.0,1,0,0,1.0,2.0,0,C,14,3,1
+Mr,Laroche, Joseph Philippe Lemercier,2.0,0.0,0,1,1,1.0,2.0,0,C,13,3,1
+Mrs,Laroche, Joseph (Juliette Marie Louise Lafargue),2.0,1.0,1,0,1,1.0,2.0,0,C,14,3,1
+Miss,Lehmann, Bertha,2.0,1.0,1,0,1,0.0,0.0,0,C,12,3,1
+Miss,Leitch, Jessie Wills,2.0,1.0,1,0,1,0.0,0.0,0,S,11,3,1
+Mrs,Lemore, (Amelia Milley),2.0,1.0,1,0,2,0.0,0.0,0,S,14,5,1
+Mr,Levy, Rene Jacques,2.0,0.0,0,1,2,0.0,0.0,0,C,13,3,1
+Mr,Leyson, Robert William Norman,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Lingane, John,2.0,0.0,0,1,3,0.0,0.0,0,Q,13,3,1
+Mr,Louch, Charles Alexander,2.0,0.0,0,1,3,1.0,0.0,0,S,13,3,1
+Mrs,Louch, Charles Alexander (Alice Adelaide Slow),2.0,1.0,1,0,2,1.0,0.0,0,S,13,3,1
+Mrs,Mack, (Mary),2.0,0.0,1,0,3,0.0,0.0,0,S,14,4,1
+Mr,Malachard, Noel,2.0,0.0,0,1,1,0.0,0.0,0,C,13,3,1
+Master,Mallet, Andre,2.0,1.0,0,1,0,0.0,2.0,0,C,10,3,1
+Mr,Mallet, Albert,2.0,0.0,0,1,1,1.0,1.0,0,C,13,3,1
+Mrs,Mallet, Albert (Antoinette Magnin),2.0,1.0,1,0,1,1.0,1.0,0,C,10,3,1
+Mr,Mangiavacchi, Serafino Emilio,2.0,0.0,0,1,1,0.0,0.0,0,C,13,3,1
+Mr,Matthews, William John,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Maybery, Frank Hubert,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,McCrae, Arthur Gordon,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,McCrie, James Matthew,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,McKane, Peter David,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Miss,Mellinger, Madeleine Violet,2.0,1.0,1,0,0,0.0,1.0,0,S,14,3,1
+Mrs,Mellinger, (Elizabeth Anne Maidment),2.0,1.0,1,0,2,0.0,1.0,0,S,14,3,1
+Mr,Mellors, William John,2.0,1.0,0,1,1,0.0,0.0,0,S,B,3,1
+Mr,Meyer, August,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Milling, Jacob Christian,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Mitchell, Henry Michael,2.0,0.0,0,1,4,0.0,0.0,0,S,13,3,1
+Rev,Montvila, Juozas,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Dr,Moraweck, Ernest,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Mr,Morley," Henry Samuel (""Mr Henry Marshall"")",2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Mudd, Thomas Charles,2.0,0.0,0,1,0,0.0,0.0,0,S,13,3,1
+Mr,Myles, Thomas Francis,2.0,0.0,0,1,3,0.0,0.0,0,Q,13,3,1
+Mr,Nasser, Nicholas,2.0,0.0,0,1,2,1.0,0.0,0,C,13,3,1
+Mrs,Nasser, Nicholas (Adele Achem),2.0,1.0,1,0,0,1.0,0.0,0,C,13,3,1
+Master,Navratil, Edmond Roger,2.0,1.0,0,1,0,1.0,1.0,0,S,D,5,1
+Master,Navratil, Michel M,2.0,1.0,0,1,0,1.0,1.0,0,S,D,5,1
+Mr,Navratil," Michel (""Louis M Hoffman"")",2.0,0.0,0,1,2,0.0,2.0,0,S,13,5,1
+Mr,Nesson, Israel,2.0,0.0,0,1,1,0.0,0.0,0,S,13,5,1
+Mr,Nicholls, Joseph Charles,2.0,0.0,0,1,1,1.0,1.0,0,S,13,3,1
+Mr,Norman, Robert Douglas,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Nourney," Alfred (""Baron von Drachstedt"")",2.0,1.0,0,1,1,0.0,0.0,0,C,7,3,1
+Mrs,Nye, (Elizabeth Ramell),2.0,1.0,1,0,1,0.0,0.0,0,S,11,5,1
+Mr,Otter, Richard,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Oxenham, Percy Thomas,2.0,1.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Padro y Manent, Julian,2.0,1.0,0,1,1,0.0,0.0,0,C,9,3,1
+Dr,Pain, Alfred,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Pallas y Castello, Emilio,2.0,1.0,0,1,1,0.0,0.0,0,C,9,3,1
+Mr,Parker, Clifford Richard,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Parkes," Francis ""Frank""",2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Parrish, (Lutie Davis),2.0,1.0,1,0,3,0.0,1.0,0,S,12,3,1
+Mr,Pengelly, Frederick William,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Pernot, Rene,2.0,0.0,0,1,1,0.0,0.0,0,C,13,3,1
+Rev,Peruschitz, Joseph Maria,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Miss,Phillips, Alice Frances Louisa,2.0,1.0,1,0,1,0.0,1.0,0,S,12,3,1
+Miss,Phillips," Kate Florence (""Mrs Kate Louise Phillips Marshall"")",2.0,1.0,1,0,1,0.0,0.0,0,S,11,3,1
+Mr,Phillips, Escott Robert,2.0,0.0,0,1,2,0.0,1.0,0,S,13,3,1
+Mrs,Pinsky, (Rosa),2.0,1.0,1,0,1,0.0,0.0,0,S,9,3,1
+Mr,Ponesell, Martin,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Portaluppi, Emilio Ilario Giuseppe,2.0,1.0,0,1,1,0.0,0.0,0,C,14,3,1
+Mr,Pulbaum, Franz,2.0,0.0,0,1,1,0.0,0.0,0,C,13,3,1
+Miss,Quick, Phyllis May,2.0,1.0,1,0,0,1.0,1.0,0,S,11,3,1
+Miss,Quick, Winifred Vera,2.0,1.0,1,0,0,1.0,1.0,0,S,11,3,1
+Mrs,Quick, Frederick Charles (Jane Richards),2.0,1.0,1,0,2,0.0,2.0,0,S,11,3,1
+Mr,Reeves, David,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Mr,Renouf, Peter Henry,2.0,0.0,0,1,2,1.0,0.0,0,S,12,3,1
+Mrs,Renouf, Peter Henry (Lillian Jefferys),2.0,1.0,1,0,1,3.0,0.0,0,S,13,3,1
+Ms,Reynaldo, Encarnacion,2.0,1.0,1,0,1,0.0,0.0,0,S,9,3,1
+Mr,Richard, Emile,2.0,0.0,0,1,1,0.0,0.0,0,C,13,3,1
+Master,Richards, George Sibley,2.0,1.0,0,1,0,1.0,1.0,0,S,4,3,1
+Master,Richards, William Rowe,2.0,1.0,0,1,0,1.0,1.0,0,S,4,3,1
+Mrs,Richards, Sidney (Emily Hocking),2.0,1.0,1,0,1,2.0,3.0,0,S,4,3,1
+Miss,Ridsdale, Lucy,2.0,1.0,1,0,3,0.0,0.0,0,S,13,3,1
+Mr,Rogers, Reginald Harry,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Miss,Rugg, Emily,2.0,1.0,1,0,1,0.0,0.0,0,S,12,3,1
+Mr,Schmidt, August,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Sedgwick, Charles Frederick Waddington,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Sharp, Percival James R,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Shelley, William (Imanita Parrish Hall),2.0,1.0,1,0,1,0.0,1.0,0,S,12,3,1
+Miss,Silven, Lyyli Karoliina,2.0,1.0,1,0,1,0.0,2.0,0,S,16,3,1
+Miss,Sincock, Maude,2.0,1.0,1,0,1,0.0,0.0,0,S,11,3,1
+Miss,Sinkkonen, Anna,2.0,1.0,1,0,1,0.0,0.0,0,S,10,3,1
+Mr,Sjostedt, Ernst Adolf,2.0,0.0,0,1,3,0.0,0.0,0,S,13,3,1
+Miss,Slayter, Hilda Mary,2.0,1.0,1,0,1,0.0,0.0,0,Q,13,3,1
+Mr,Slemen, Richard James,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Miss,Smith, Marion Elsie,2.0,1.0,1,0,2,0.0,0.0,0,S,9,3,1
+Mr,Sobey, Samuel James Hayden,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Stanton, Samuel Ward,2.0,0.0,0,1,2,0.0,0.0,0,C,13,3,1
+Mr,Stokes, Philip Joseph,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Swane, George,2.0,0.0,0,1,1,0.0,0.0,0,S,13,5,1
+Mr,Sweet, George Frederick,2.0,0.0,0,1,0,0.0,0.0,0,S,13,3,1
+Miss,Toomey, Ellen,2.0,1.0,1,0,3,0.0,0.0,0,S,9,3,1
+Mr,Troupiansky, Moses Aaron,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mrs,Trout, William H (Jessie L),2.0,1.0,1,0,1,0.0,0.0,0,S,13,3,1
+Miss,Troutt," Edwina Celia ""Winnie""",2.0,1.0,1,0,1,0.0,0.0,0,S,16,4,1
+Mr,Turpin, William John Robert,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mrs,Turpin, William John Robert (Dorothy Ann Wonnacott),2.0,0.0,1,0,1,1.0,0.0,0,S,14,3,1
+Mr,Veal, James,2.0,0.0,0,1,2,0.0,0.0,0,S,13,3,1
+Miss,Walcroft, Nellie,2.0,1.0,1,0,1,0.0,0.0,0,S,14,3,1
+Mr,Ware, John James,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mr,Ware, William Jeffery,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mrs,Ware, John James (Florence Louise Long),2.0,1.0,1,0,1,0.0,0.0,0,S,10,3,1
+Mr,Watson, Ennis Hastings,2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Miss,Watt, Bertha J,2.0,1.0,1,0,0,0.0,0.0,0,S,9,3,1
+Mrs,Watt," James (Elizabeth ""Bessie"" Inglis Milne)",2.0,1.0,1,0,2,0.0,0.0,0,S,9,3,1
+Miss,Webber, Susan,2.0,1.0,1,0,2,0.0,0.0,0,S,12,4,1
+Mr,Weisz, Leopold,2.0,0.0,0,1,1,1.0,0.0,0,S,13,3,1
+Mrs,Weisz, Leopold (Mathilde Francoise Pede),2.0,1.0,1,0,1,1.0,0.0,0,S,10,3,1
+Master,Wells, Ralph Lester,2.0,1.0,0,1,0,1.0,1.0,0,S,14,3,1
+Miss,Wells, Joan,2.0,1.0,1,0,0,1.0,1.0,0,S,14,3,1
+Mrs,Wells," Arthur Henry (""Addie"" Dart Trevaskis)",2.0,1.0,1,0,1,0.0,2.0,0,S,14,3,1
+Miss,West, Barbara J,2.0,1.0,1,0,0,1.0,2.0,0,S,10,3,1
+Miss,West, Constance Mirium,2.0,1.0,1,0,0,1.0,2.0,0,S,10,3,1
+Mr,West, Edwy Arthur,2.0,0.0,0,1,2,1.0,2.0,0,S,13,3,1
+Mrs,West, Edwy Arthur (Ada Mary Worth),2.0,1.0,1,0,2,1.0,2.0,0,S,10,3,1
+Mr,Wheadon, Edward H,2.0,0.0,0,1,4,0.0,0.0,0,S,13,3,1
+Mr,Wheeler," Edwin ""Frederick""",2.0,0.0,0,1,1,0.0,0.0,0,S,13,3,1
+Mr,Wilhelms, Charles,2.0,1.0,0,1,1,0.0,0.0,0,S,9,3,1
+Mr,Williams, Charles Eugene,2.0,1.0,0,1,1,0.0,0.0,0,S,14,3,1
+Miss,Wright, Marion,2.0,1.0,1,0,1,0.0,0.0,0,S,9,3,1
+Miss,Yrois," Henriette (""Mrs Harbeck"")",2.0,0.0,1,0,1,0.0,0.0,0,S,14,3,1
+Mr,Abbing, Anthony,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Master,Abbott, Eugene Joseph,3.0,0.0,0,1,0,0.0,2.0,0,S,15,6,1
+Mr,Abbott, Rossmore Edward,3.0,0.0,0,1,0,1.0,1.0,0,S,15,6,1
+Mrs,Abbott, Stanton (Rosa Hunt),3.0,1.0,1,0,2,1.0,1.0,0,S,A,6,1
+Miss,Abelseth, Karen Marie,3.0,1.0,1,0,0,0.0,0.0,0,S,16,6,1
+Mr,Abelseth, Olaus Jorgensen,3.0,1.0,0,1,1,0.0,0.0,0,S,A,5,1
+Mr,Abrahamsson, Abraham August Johannes,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mrs,Abrahim, Joseph (Sophie Halaut Easu),3.0,1.0,1,0,1,0.0,0.0,0,C,C,6,1
+Mr,Adahl, Mauritz Nils Martin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Adams, John,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mrs,Ahlin, Johan (Johanna Persdotter Larsson),3.0,0.0,1,0,2,1.0,0.0,0,S,13,6,1
+Master,Aks, Philip Frank,3.0,1.0,0,1,0,0.0,1.0,0,S,11,6,1
+Mrs,Aks, Sam (Leah Rosen),3.0,1.0,1,0,1,0.0,1.0,0,S,13,6,1
+Mr,Albimona, Nassef Cassem,3.0,1.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Alexander, William,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Alhomaki, Ilmari Rudolf,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Ali, Ahmed,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Ali, William,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Allen, William Henry,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Allum, Owen George,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Andersen, Albert Karvin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Andersen-Jensen, Carla Christine Nielsine,3.0,1.0,1,0,1,1.0,0.0,0,S,16,6,1
+Master,Andersson, Sigvard Harald Elias,3.0,0.0,0,1,0,4.0,2.0,0,S,15,6,1
+Miss,Andersson, Ebba Iris Alfrida,3.0,0.0,1,0,0,4.0,2.0,0,S,13,6,1
+Miss,Andersson, Ellis Anna Maria,3.0,0.0,1,0,0,4.0,2.0,0,S,13,6,1
+Miss,Andersson, Erna Alexandra,3.0,1.0,1,0,1,4.0,2.0,0,S,D,6,1
+Miss,Andersson, Ida Augusta Margareta,3.0,0.0,1,0,2,4.0,2.0,0,S,13,6,1
+Miss,Andersson, Ingeborg Constanzia,3.0,0.0,1,0,0,4.0,2.0,0,S,13,6,1
+Miss,Andersson, Sigrid Elisabeth,3.0,0.0,1,0,0,4.0,2.0,0,S,13,6,1
+Mr,Andersson, Anders Johan,3.0,0.0,0,1,2,1.0,5.0,0,S,15,6,1
+Mr,Andersson," August Edvard (""Wennerstrom"")",3.0,1.0,0,1,1,0.0,0.0,0,S,A,6,1
+Mr,Andersson, Johan Samuel,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mrs,Andersson, Anders Johan (Alfrida Konstantia Brogren),3.0,0.0,1,0,2,1.0,5.0,0,S,13,6,1
+Mr,Andreasson, Paul Edvin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Angheloff, Minko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Arnold-Franchi, Josef,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,Arnold-Franchi, Josef (Josefine Franchi),3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Mr,Aronsson, Ernst Axel Algot,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Asim, Adola,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Master,Asplund, Carl Edgar,3.0,0.0,0,1,0,4.0,2.0,0,S,15,6,1
+Master,Asplund, Clarence Gustaf Hugo,3.0,0.0,0,1,0,4.0,2.0,0,S,15,6,1
+Master,Asplund, Edvin Rojj Felix,3.0,1.0,0,1,0,4.0,2.0,0,S,15,6,1
+Master,Asplund, Filip Oscar,3.0,0.0,0,1,0,4.0,2.0,0,S,15,6,1
+Miss,Asplund, Lillian Gertrud,3.0,1.0,1,0,0,4.0,2.0,0,S,15,6,1
+Mr,Asplund, Carl Oscar Vilhelm Gustafsson,3.0,0.0,0,1,2,1.0,5.0,0,S,15,6,1
+Mr,Asplund, Johan Charles,3.0,1.0,0,1,1,0.0,0.0,0,S,13,6,1
+Mrs,Asplund, Carl Oscar (Selma Augusta Emilia Johansson),3.0,1.0,1,0,2,1.0,5.0,0,S,15,6,1
+Mrs,Assaf Khalil," Mariana (""Miriam"")",3.0,1.0,1,0,2,0.0,0.0,0,C,C,6,1
+Mr,Assaf, Gerios,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Assam, Ali,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Attalah, Malake,3.0,0.0,1,0,1,0.0,0.0,0,C,13,6,1
+Mr,Attalah, Sleiman,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Augustsson, Albert,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Ayoub, Banoura,3.0,1.0,1,0,0,0.0,0.0,0,C,C,6,1
+Mr,Baccos, Raffull,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Backstrom, Karl Alfred,3.0,0.0,0,1,1,1.0,0.0,0,S,D,6,1
+Mrs,Backstrom, Karl Alfred (Maria Mathilda Gustafsson),3.0,1.0,1,0,2,3.0,0.0,0,S,13,6,1
+Miss,Baclini, Eugenie,3.0,1.0,1,0,0,2.0,1.0,0,C,C,6,1
+Miss,Baclini, Helene Barbara,3.0,1.0,1,0,0,2.0,1.0,0,C,C,6,1
+Miss,Baclini, Marie Catherine,3.0,1.0,1,0,0,2.0,1.0,0,C,C,6,1
+Mrs,Baclini, Solomon (Latifa Qurban),3.0,1.0,1,0,1,0.0,3.0,0,C,C,6,1
+Miss,Badman, Emily Louisa,3.0,1.0,1,0,1,0.0,0.0,0,S,C,6,1
+Mr,Badt, Mohamed,3.0,0.0,0,1,2,0.0,0.0,0,C,15,6,1
+Mr,Balkic, Cerin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Barah, Hanna Assi,3.0,1.0,0,1,1,0.0,0.0,0,C,15,6,1
+Miss,Barbara, Saiide,3.0,0.0,1,0,1,0.0,1.0,0,C,13,6,1
+Mrs,Barbara, (Catherine David),3.0,0.0,1,0,2,0.0,1.0,0,C,13,6,1
+Miss,Barry, Julia,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Barton, David John,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Beavan, William Thomas,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Bengtsson, John Viktor,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Berglund, Karl Ivar Sven,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Master,Betros, Seman,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Betros, Tannous,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Bing, Lee,3.0,1.0,0,1,1,0.0,0.0,0,S,C,6,1
+Mr,Birkeland, Hans Martin Monsen,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Bjorklund, Ernst Herbert,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Bostandyeff, Guentcho,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Master,Boulos, Akar,3.0,0.0,0,1,0,1.0,1.0,0,C,15,6,1
+Miss,Boulos, Nourelain,3.0,0.0,1,0,0,1.0,1.0,0,C,13,6,1
+Mr,Boulos, Hanna,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mrs,Boulos, Joseph (Sultana),3.0,0.0,1,0,1,0.0,2.0,0,C,13,6,1
+Miss,Bourke, Mary,3.0,0.0,1,0,1,0.0,2.0,0,Q,13,6,1
+Mr,Bourke, John,3.0,0.0,0,1,2,1.0,1.0,0,Q,15,6,1
+Mrs,Bourke, John (Catherine),3.0,0.0,1,0,1,1.0,1.0,0,Q,13,6,1
+Mr,Bowen," David John ""Dai""",3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Bradley, Bridget Delia,3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Braf, Elin Ester Maria,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Braund, Lewis Richard,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mr,Braund, Owen Harris,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mr,Brobeck, Karl Rudolf,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Brocklebank, William Alfred,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Miss,Buckley, Katherine,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Buckley, Daniel,3.0,1.0,0,1,1,0.0,0.0,0,Q,13,6,1
+Mr,Burke, Jeremiah,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Miss,Burns, Mary Delia,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Cacic, Manda,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Cacic, Marija,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Cacic, Jego Grga,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Cacic, Luka,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Calic, Jovo,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Calic, Petar,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Canavan, Mary,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Canavan, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Cann, Ernest Charles,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Caram, Joseph,3.0,0.0,0,1,1,1.0,0.0,0,C,15,6,1
+Mrs,Caram, Joseph (Maria Elias),3.0,0.0,1,0,1,1.0,0.0,0,C,13,6,1
+Mr,Carlsson, August Sigfrid,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Carlsson, Carl Robert,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Carr," Helen ""Ellen""",3.0,1.0,1,0,0,0.0,0.0,0,Q,16,6,1
+Miss,Carr, Jeannie,3.0,0.0,1,0,2,0.0,0.0,0,Q,13,6,1
+Mr,Carver, Alfred John,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Celotti, Francesco,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Charters, David,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Chip, Chang,3.0,1.0,0,1,1,0.0,0.0,0,S,C,6,1
+Mr,Christmann, Emil,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Chronopoulos, Apostolos,3.0,0.0,0,1,1,1.0,0.0,0,C,15,6,1
+Mr,Chronopoulos, Demetrios,3.0,0.0,0,1,1,1.0,0.0,0,C,15,6,1
+Mr,Coelho, Domingos Fernandeo,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Cohen," Gurshon ""Gus""",3.0,1.0,0,1,1,0.0,0.0,0,S,12,6,1
+Mr,Colbert, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Coleff, Peju,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Coleff, Satio,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Conlon, Thomas Henry,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Connaghton, Michael,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Miss,Connolly, Kate,3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Connolly, Kate,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Connors, Patrick,3.0,0.0,0,1,4,0.0,0.0,0,Q,15,6,1
+Mr,Cook, Jacob,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Cor, Bartol,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Cor, Ivan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Cor, Liudevit,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Corn, Harry,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Master,Coutts," Eden Leslie ""Neville""",3.0,1.0,0,1,0,1.0,1.0,0,S,2,6,1
+Master,Coutts," William Loch ""William""",3.0,1.0,0,1,0,1.0,1.0,0,S,2,6,1
+Mrs,Coutts," William (Winnie ""Minnie"" Treanor)",3.0,1.0,1,0,2,0.0,2.0,0,S,2,6,1
+Mr,Coxon, Daniel,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Mr,Crease, Ernest James,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Cribb, Laura Alice,3.0,1.0,1,0,1,0.0,1.0,0,S,12,6,1
+Mr,Cribb, John Hatfield,3.0,0.0,0,1,2,0.0,1.0,0,S,15,6,1
+Mr,Culumovic, Jeso,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Daher, Shedid,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Dahl, Karl Edwart,3.0,1.0,0,1,2,0.0,0.0,0,S,15,6,1
+Miss,Dahlberg, Gerda Ulrika,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Dakic, Branko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Daly," Margaret Marcella ""Maggie""",3.0,1.0,1,0,1,0.0,0.0,0,Q,15,6,1
+Mr,Daly, Eugene Patrick,3.0,1.0,0,1,1,0.0,0.0,0,Q,13 15 B,6,1
+Master,Danbom, Gilbert Sigvard Emanuel,3.0,0.0,0,1,0,0.0,2.0,0,S,15,6,1
+Mr,Danbom, Ernst Gilbert,3.0,0.0,0,1,2,1.0,1.0,0,S,15,6,1
+Mrs,Danbom, Ernst Gilbert (Anna Sigrid Maria Brogren),3.0,0.0,1,0,1,1.0,1.0,0,S,13,6,1
+Mr,Danoff, Yoto,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Dantcheff, Ristiu,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Davies, Alfred J,3.0,0.0,0,1,1,2.0,0.0,0,S,15,6,1
+Mr,Davies, Evan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Davies, John Samuel,3.0,0.0,0,1,1,2.0,0.0,0,S,15,6,1
+Mr,Davies, Joseph,3.0,0.0,0,1,1,2.0,0.0,0,S,15,6,1
+Mr,Davison, Thomas Henry,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,Davison, Thomas Henry (Mary E Finck),3.0,1.0,1,0,1,1.0,0.0,0,S,16,6,1
+Mr,de Messemaeker, Guillaume Joseph,3.0,1.0,0,1,2,1.0,0.0,0,S,15,6,1
+Mrs,de Messemaeker, Guillaume Joseph (Emma),3.0,1.0,1,0,2,1.0,0.0,0,S,13,6,1
+Mr,de Mulder, Theodore,3.0,1.0,0,1,1,0.0,0.0,0,S,11,6,1
+Mr,de Pelsmaeker, Alfons,3.0,0.0,0,1,0,0.0,0.0,0,S,15,6,1
+Master,Dean, Bertram Vere,3.0,1.0,0,1,0,1.0,2.0,0,S,10,6,1
+Miss,Dean," Elizabeth Gladys ""Millvina""",3.0,1.0,1,0,0,1.0,2.0,0,S,10,6,1
+Mr,Dean, Bertram Frank,3.0,0.0,0,1,1,1.0,2.0,0,S,15,6,1
+Mrs,Dean, Bertram (Eva Georgetta Light),3.0,1.0,1,0,2,1.0,2.0,0,S,10,6,1
+Mr,Delalic, Redjo,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Demetri, Marinko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Denkoff, Mitto,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Dennis, Samuel,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Dennis, William,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Miss,Devaney, Margaret Delia,3.0,1.0,1,0,1,0.0,0.0,0,Q,C,6,1
+Mr,Dika, Mirko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Dimic, Jovan,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Dintcheff, Valtcho,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Doharr, Tannous,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Dooley, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Dorking, Edward Arthur,3.0,1.0,0,1,1,0.0,0.0,0,S,B,6,1
+Miss,Dowdell, Elizabeth,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Doyle, Elizabeth,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Drapkin, Jennie,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Drazenoic, Jozef,3.0,0.0,0,1,2,0.0,0.0,0,C,15,6,1
+Mr,Duane, Frank,3.0,0.0,0,1,4,0.0,0.0,0,Q,15,6,1
+Mr,Duquemin, Joseph,3.0,1.0,0,1,1,0.0,0.0,0,S,D,6,1
+Mr,Dyker, Adolf Fredrik,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,Dyker, Adolf Fredrik (Anna Elisabeth Judith Andersson),3.0,1.0,1,0,1,1.0,0.0,0,S,16,6,1
+Mr,Edvardsson, Gustaf Hjalmar,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Eklund, Hans Linus,3.0,0.0,0,1,0,0.0,0.0,0,S,15,6,1
+Mr,Ekstrom, Johan,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Elias, Dibo,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Elias, Joseph,3.0,0.0,0,1,2,0.0,2.0,0,C,15,6,1
+Mr,Elias, Joseph Jr,3.0,0.0,0,1,1,1.0,1.0,0,C,15,6,1
+Mr,Elias, Tannous,3.0,0.0,0,1,0,1.0,1.0,0,C,15,6,1
+Mr,Elsbury, William James,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Miss,Emanuel, Virginia Ethel,3.0,1.0,1,0,0,0.0,0.0,0,S,13,6,1
+Mr,Emir, Farred Chehab,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Everett, Thomas James,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Farrell, James,3.0,0.0,0,1,2,0.0,0.0,0,Q,15,6,1
+Mr,Finoli, Luigi,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Fischer, Eberhard Thelander,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Fleming, Honora,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Flynn, James,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Flynn, John,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Foley, Joseph,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Foley, William,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Foo, Choong,3.0,1.0,0,1,1,0.0,0.0,0,S,13,6,1
+Miss,Ford," Doolina Margaret ""Daisy""",3.0,0.0,1,0,1,2.0,2.0,0,S,13,6,1
+Miss,Ford," Robina Maggie ""Ruby""",3.0,0.0,1,0,0,2.0,2.0,0,S,13,6,1
+Mr,Ford, Arthur,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Ford, Edward Watson,3.0,0.0,0,1,1,2.0,2.0,0,S,15,6,1
+Mr,Ford, William Neal,3.0,0.0,0,1,0,1.0,3.0,0,S,15,6,1
+Mrs,Ford, Edward (Margaret Ann Watson),3.0,0.0,1,0,2,1.0,3.0,0,S,13,6,1
+Mr,Fox, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Franklin, Charles (Charles Fardon),3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Gallagher, Martin,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Garfirth, John,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Gheorgheff, Stanio,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Gilinski, Eliezer,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Gilnagh," Katherine ""Katie""",3.0,1.0,1,0,0,0.0,0.0,0,Q,16,6,1
+Miss,Glynn, Mary Agatha,3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Master,Goldsmith," Frank John William ""Frankie""",3.0,1.0,0,1,0,0.0,2.0,0,S,C D,6,1
+Mr,Goldsmith, Frank John,3.0,0.0,0,1,2,1.0,1.0,0,S,15,6,1
+Mr,Goldsmith, Nathan,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mrs,Goldsmith, Frank John (Emily Alice Brown),3.0,1.0,1,0,1,1.0,1.0,0,S,C D,6,1
+Mr,Goncalves, Manuel Estanslas,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Master,Goodwin, Harold Victor,3.0,0.0,0,1,0,5.0,2.0,0,S,15,6,1
+Master,Goodwin, Sidney Leonard,3.0,0.0,0,1,0,5.0,2.0,0,S,15,6,1
+Master,Goodwin, William Frederick,3.0,0.0,0,1,0,5.0,2.0,0,S,15,6,1
+Miss,Goodwin, Jessie Allis,3.0,0.0,1,0,0,5.0,2.0,0,S,13,6,1
+Miss,Goodwin, Lillian Amy,3.0,0.0,1,0,0,5.0,2.0,0,S,13,6,1
+Mr,Goodwin, Charles Edward,3.0,0.0,0,1,0,5.0,2.0,0,S,15,6,1
+Mr,Goodwin, Charles Frederick,3.0,0.0,0,1,2,1.0,6.0,0,S,15,6,1
+Mrs,Goodwin, Frederick (Augusta Tyler),3.0,0.0,1,0,2,1.0,6.0,0,S,13,6,1
+Mr,Green, George Henry,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Mr,Gronnestad, Daniel Danielsen,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Guest, Robert,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Gustafsson, Alfred Ossian,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Gustafsson, Anders Vilhelm,3.0,0.0,0,1,2,2.0,0.0,0,S,15,6,1
+Mr,Gustafsson, Johan Birger,3.0,0.0,0,1,1,2.0,0.0,0,S,15,6,1
+Mr,Gustafsson, Karl Gideon,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Haas, Aloisia,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Hagardon, Kate,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Hagland, Ingvald Olai Olsen,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mr,Hagland, Konrad Mathias Reiersen,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mr,Hakkarainen, Pekka Pietari,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,Hakkarainen, Pekka Pietari (Elin Matilda Dolck),3.0,1.0,1,0,1,1.0,0.0,0,S,15,6,1
+Mr,Hampe, Leon,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Hanna, Mansour,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Hansen, Claus Peter,3.0,0.0,0,1,2,2.0,0.0,0,S,15,6,1
+Mr,Hansen, Henrik Juul,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mr,Hansen, Henry Damsgaard,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mrs,Hansen, Claus Peter (Jennie L Howard),3.0,1.0,1,0,2,1.0,0.0,0,S,11,6,1
+Miss,Harknett, Alice Phoebe,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Harmer, Abraham (David Lishin),3.0,0.0,0,1,1,0.0,0.0,0,S,B,6,1
+Mr,Hart, Henry,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Hassan, Houssein G N,3.0,0.0,0,1,0,0.0,0.0,0,C,15,6,1
+Miss,Healy," Hanora ""Nora""",3.0,1.0,1,0,1,0.0,0.0,0,Q,16,6,1
+Mr,Hedman, Oskar Arvid,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Hee, Ling,3.0,1.0,0,1,1,0.0,0.0,0,S,C,6,1
+Miss,Hegarty," Hanora ""Nora""",3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Heikkinen, Laina,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Heininen, Wendla Maria,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Hellstrom, Hilda Maria,3.0,1.0,1,0,1,0.0,0.0,0,S,C,6,1
+Mr,Hendekovic, Ignjac,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Henriksson, Jenny Lovisa,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Henry, Delia,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Hirvonen, Hildur E,3.0,1.0,1,0,0,0.0,1.0,0,S,15,6,1
+Mrs,Hirvonen, Alexander (Helga E Lindqvist),3.0,1.0,1,0,1,1.0,1.0,0,S,15,6,1
+Mr,Holm, John Fredrik Alexander,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Holthen, Johan Martin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Honkanen, Eliina,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Horgan, John,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Miss,Howard, May Elizabeth,3.0,1.0,1,0,1,0.0,0.0,0,S,C,6,1
+Mr,Humblen, Adolf Mathias Nicolai Olsen,3.0,0.0,0,1,2,0.0,0.0,0,S,15,5,1
+Mr,Hyman, Abraham,3.0,1.0,0,1,1,0.0,0.0,0,S,C,6,1
+Mr,Ibrahim Shawah, Yousseff,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Ilieff, Ylio,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Ilmakangas, Ida Livija,3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Miss,Ilmakangas, Pieta Sofia,3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Mr,Ivanoff, Kanio,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Jalsevac, Ivan,3.0,1.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Jansson, Carl Olof,3.0,1.0,0,1,1,0.0,0.0,0,S,A,6,1
+Mr,Jardin, Jose Neto,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Jensen, Hans Peder,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Jensen, Niels Peder,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Jensen, Svend Lauritz,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Miss,Jermyn, Annie,3.0,1.0,1,0,1,0.0,0.0,0,Q,D,6,1
+Mr,Johannesen-Bratthammer, Bernt,3.0,1.0,0,1,1,0.0,0.0,0,S,13,6,1
+Mr,Johanson, Jakob Alfred,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Johansson Palmquist, Oskar Leander,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Johansson, Erik,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Johansson, Gustaf Joel,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Johansson, Karl Johan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Johansson, Nils,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Master,Johnson, Harold Theodor,3.0,1.0,0,1,0,1.0,1.0,0,S,15,6,1
+Miss,Johnson, Eleanor Ileen,3.0,1.0,1,0,0,1.0,1.0,0,S,15,6,1
+Mr,Johnson, Alfred,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Mr,Johnson, Malkolm Joackim,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Johnson, William Cahoone Jr,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mrs,Johnson, Oscar W (Elisabeth Vilhelmina Berg),3.0,1.0,1,0,1,0.0,2.0,0,S,15,6,1
+Master,Johnston," William Arthur ""Willie""",3.0,0.0,0,1,1,1.0,2.0,0,S,15,6,1
+Miss,Johnston," Catherine Helen ""Carrie""",3.0,0.0,1,0,1,1.0,2.0,0,S,13,6,1
+Mr,Johnston, Andrew G,3.0,0.0,0,1,1,1.0,2.0,0,S,15,6,1
+Mrs,Johnston," Andrew G (Elizabeth ""Lily"" Watson)",3.0,0.0,1,0,1,1.0,2.0,0,S,13,6,1
+Mr,Jonkoff, Lalio,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Jonsson, Carl,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Jonsson, Nils Hilding,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Jussila, Katriina,3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Miss,Jussila, Mari Aina,3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Mr,Jussila, Eiriik,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Kallio, Nikolai Erland,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Kalvik, Johannes Halvorsen,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Karaic, Milan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Karlsson, Einar Gervasius,3.0,1.0,0,1,1,0.0,0.0,0,S,13,6,1
+Mr,Karlsson, Julius Konrad Eugen,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Karlsson, Nils August,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Karun, Manca,3.0,1.0,1,0,0,0.0,1.0,0,C,15,6,1
+Mr,Karun, Franz,3.0,1.0,0,1,2,0.0,1.0,0,C,15,6,1
+Mr,Kassem, Fared,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Katavelas," Vassilios (""Catavelas Vassilios"")",3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Keane," Andrew ""Andy""",3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Keefe, Arthur,3.0,0.0,0,1,1,0.0,0.0,0,S,A,6,1
+Miss,Kelly," Anna Katherine ""Annie Kate""",3.0,1.0,1,0,1,0.0,0.0,0,Q,16,6,1
+Miss,Kelly, Mary,3.0,1.0,1,0,1,0.0,0.0,0,Q,D,6,1
+Mr,Kelly, James,3.0,0.0,0,1,2,0.0,0.0,0,Q,15,6,1
+Mr,Kelly, James,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Kennedy, John,3.0,1.0,0,1,1,0.0,0.0,0,Q,13,6,1
+Mr,Khalil, Betros,3.0,0.0,0,1,1,1.0,0.0,0,C,15,6,1
+Mrs,Khalil," Betros (Zahie ""Maria"" Elias)",3.0,0.0,1,0,1,1.0,0.0,0,C,13,6,1
+Mr,Kiernan, John,3.0,0.0,0,1,1,1.0,0.0,0,Q,15,6,1
+Mr,Kiernan, Philip,3.0,0.0,0,1,1,1.0,0.0,0,Q,15,6,1
+Mr,Kilgannon, Thomas J,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Miss,Kink, Maria,3.0,0.0,1,0,1,2.0,0.0,0,S,13,6,1
+Mr,Kink, Vincenz,3.0,0.0,0,1,1,2.0,0.0,0,S,15,6,1
+Miss,Kink-Heilmann, Luise Gretchen,3.0,1.0,1,0,0,0.0,2.0,0,S,2,6,1
+Mr,Kink-Heilmann, Anton,3.0,1.0,0,1,1,3.0,1.0,0,S,2,6,1
+Mrs,Kink-Heilmann, Anton (Luise Heilmann),3.0,1.0,1,0,1,1.0,1.0,0,S,2,6,1
+Miss,Klasen, Gertrud Emilia,3.0,0.0,1,0,0,1.0,1.0,0,S,13,6,1
+Mr,Klasen, Klas Albin,3.0,0.0,0,1,1,1.0,1.0,0,S,15,6,1
+Mrs,Klasen, (Hulda Kristina Eugenia Lofqvist),3.0,0.0,1,0,2,0.0,2.0,0,S,13,6,1
+Mr,Kraeff, Theodor,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Krekorian, Neshan,3.0,1.0,0,1,1,0.0,0.0,0,C,10,5,1
+Mr,Lahoud, Sarkis,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Miss,Laitinen, Kristina Sofia,3.0,0.0,1,0,2,0.0,0.0,0,S,13,6,1
+Mr,Laleff, Kristo,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lam, Ali,3.0,1.0,0,1,1,0.0,0.0,0,S,C,6,1
+Mr,Lam, Len,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Landergren, Aurora Adelia,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Lane, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Lang, Fang,3.0,1.0,0,1,1,0.0,0.0,0,S,14,6,1
+Mr,Larsson, August Viktor,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Larsson, Bengt Edvin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Larsson-Rondberg, Edvard A,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Leeni," Fahim (""Philip Zenni"")",3.0,1.0,0,1,1,0.0,0.0,0,C,6,6,1
+Master,Lefebre, Henry Forbes,3.0,0.0,0,1,1,3.0,1.0,0,S,15,6,1
+Miss,Lefebre, Ida,3.0,0.0,1,0,1,3.0,1.0,0,S,13,6,1
+Miss,Lefebre, Jeannie,3.0,0.0,1,0,1,3.0,1.0,0,S,13,6,1
+Miss,Lefebre, Mathilde,3.0,0.0,1,0,1,3.0,1.0,0,S,13,6,1
+Mrs,Lefebre, Frank (Frances),3.0,0.0,1,0,1,0.0,4.0,0,S,13,6,1
+Mr,Leinonen, Antti Gustaf,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lemberopolous, Peter L,3.0,0.0,0,1,2,0.0,0.0,0,C,15,6,1
+Miss,Lennon, Mary,3.0,0.0,1,0,1,1.0,0.0,0,Q,13,6,1
+Mr,Lennon, Denis,3.0,0.0,0,1,1,1.0,0.0,0,Q,15,6,1
+Mr,Leonard, Lionel,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Lester, James,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Lievens, Rene Aime,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Lindahl, Agda Thorilda Viktoria,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Lindblom, Augusta Charlotta,3.0,0.0,1,0,2,0.0,0.0,0,S,13,6,1
+Mr,Lindell, Edvard Bengtsson,3.0,0.0,0,1,2,1.0,0.0,0,S,A,6,1
+Mrs,Lindell, Edvard Bengtsson (Elin Gerda Persson),3.0,0.0,1,0,1,1.0,0.0,0,S,A,6,1
+Mr,Lindqvist, Eino William,3.0,1.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mr,Linehan, Michael,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Ling, Lee,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lithman, Simon,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lobb, William Arthur,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,Lobb, William Arthur (Cordelia K Stanlick),3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Mr,Lockyer, Edward,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lovell," John Hall (""Henry"")",3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lulic, Nikola,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lundahl, Johan Svensson,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Miss,Lundin, Olga Elida,3.0,1.0,1,0,1,0.0,0.0,0,S,10,6,1
+Mr,Lundstrom, Thure Edvin,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Lyntakoff, Stanko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,MacKay, George William,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Madigan," Margaret ""Maggie""",3.0,1.0,1,0,1,0.0,0.0,0,Q,15,6,1
+Mr,Madsen, Fridtjof Arne,3.0,1.0,0,1,1,0.0,0.0,0,S,13,6,1
+Mr,Maenpaa, Matti Alexanteri,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Mahon, Bridget Delia,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Mahon, John,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Maisner, Simon,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Makinen, Kalle Edvard,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Mamee, Hanna,3.0,1.0,0,1,1,0.0,0.0,0,C,15,6,1
+Miss,Mangan, Mary,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Mannion, Margareth,3.0,1.0,1,0,1,0.0,0.0,0,Q,16,6,1
+Mr,Mardirosian, Sarkis,3.0,0.0,0,1,1,0.0,0.0,0,C,15,5,1
+Mr,Markoff, Marin,3.0,0.0,0,1,2,0.0,0.0,0,C,15,6,1
+Mr,Markun, Johann,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mrs,Masselmani, Fatima,3.0,1.0,1,0,1,0.0,0.0,0,C,C,6,1
+Mr,Matinoff, Nicola,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Miss,McCarthy," Catherine ""Katie""",3.0,1.0,1,0,1,0.0,0.0,0,Q,15 16,6,1
+Mr,McCormack, Thomas Joseph,3.0,1.0,0,1,1,0.0,0.0,0,Q,13,6,1
+Miss,McCoy, Agnes,3.0,1.0,1,0,1,2.0,0.0,0,Q,16,6,1
+Miss,McCoy, Alicia,3.0,1.0,1,0,1,2.0,0.0,0,Q,16,6,1
+Mr,McCoy, Bernard,3.0,1.0,0,1,1,2.0,0.0,0,Q,16,6,1
+Miss,McDermott, Brigdet Delia,3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,McEvoy, Michael,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Miss,McGovern, Mary,3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,McGowan," Anna ""Annie""",3.0,1.0,1,0,0,0.0,0.0,0,Q,13,6,1
+Miss,McGowan, Katherine,3.0,0.0,1,0,2,0.0,0.0,0,Q,13,6,1
+Mr,McMahon, Martin,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,McNamee, Neal,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,McNamee, Neal (Eileen O'Leary),3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Miss,McNeill, Bridget,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Meanwell, (Marion Ogden),3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mrs,Meek, Thomas (Annie Louise Rowley),3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Meo, Alfonzo,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Mr,Mernagh, Robert,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Midtsjo, Karl Albert,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Miles, Frank,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Mineff, Ivan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Minkoff, Lazar,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Mionoff, Stoytcho,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Mitkoff, Mito,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Mockler," Helen Mary ""Ellie""",3.0,1.0,1,0,1,0.0,0.0,0,Q,16,6,1
+Mr,Moen, Sigurd Hansen,3.0,0.0,0,1,1,0.0,0.0,0,S,15,5,1
+Master,Moor, Meier,3.0,1.0,0,1,0,0.0,1.0,0,S,14,4,1
+Mrs,Moor, (Beila),3.0,1.0,1,0,1,0.0,1.0,0,S,14,4,1
+Mr,Moore, Leonard Charles,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Moran, Bertha,3.0,1.0,1,0,1,1.0,0.0,0,Q,16,6,1
+Mr,Moran, Daniel J,3.0,0.0,0,1,1,1.0,0.0,0,Q,15,6,1
+Mr,Moran, James,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Morley, William,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Morrow, Thomas Rowan,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Moss, Albert Johan,3.0,1.0,0,1,1,0.0,0.0,0,S,B,6,1
+Master,Moubarek, Gerios,3.0,1.0,0,1,1,1.0,1.0,0,C,C,6,1
+Master,Moubarek," Halim Gonios (""William George"")",3.0,1.0,0,1,1,1.0,1.0,0,C,C,6,1
+Mrs,Moubarek," George (Omine ""Amenia"" Alexander)",3.0,1.0,1,0,1,0.0,2.0,0,C,C,6,1
+Mrs,Moussa, (Mantoura Boulos),3.0,1.0,1,0,1,0.0,0.0,0,C,13,6,1
+Mr,Moutal, Rahamin Haim,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Mullens," Katherine ""Katie""",3.0,1.0,1,0,1,0.0,0.0,0,Q,16,6,1
+Miss,Mulvihill, Bertha E,3.0,1.0,1,0,1,0.0,0.0,0,Q,15,6,1
+Mr,Murdlin, Joseph,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Murphy," Katherine ""Kate""",3.0,1.0,1,0,1,1.0,0.0,0,Q,16,6,1
+Miss,Murphy, Margaret Jane,3.0,1.0,1,0,1,1.0,0.0,0,Q,16,6,1
+Miss,Murphy, Nora,3.0,1.0,1,0,1,0.0,0.0,0,Q,16,6,1
+Mr,Myhrman, Pehr Fabian Oliver Malkolm,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Naidenoff, Penko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Najib," Adele Kiamie ""Jane""",3.0,1.0,1,0,0,0.0,0.0,0,C,C,6,1
+Miss,Nakid," Maria (""Mary"")",3.0,1.0,1,0,0,0.0,2.0,0,C,C,6,1
+Mr,Nakid, Sahid,3.0,1.0,0,1,1,1.0,1.0,0,C,C,6,1
+Mrs,Nakid," Said (Waika ""Mary"" Mowad)",3.0,1.0,1,0,1,1.0,1.0,0,C,C,6,1
+Mr,Nancarrow, William Henry,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Nankoff, Minko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Nasr, Mustafa,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Miss,Naughton, Hannah,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Nenkoff, Christo,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Master,Nicola-Yarred, Elias,3.0,1.0,0,1,0,1.0,0.0,0,C,C,6,1
+Miss,Nicola-Yarred, Jamila,3.0,1.0,1,0,0,1.0,0.0,0,C,C,6,1
+Miss,Nieminen, Manta Josefina,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Niklasson, Samuel,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Nilsson, Berta Olivia,3.0,1.0,1,0,1,0.0,0.0,0,S,D,6,1
+Miss,Nilsson, Helmina Josefina,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Nilsson, August Ferdinand,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Nirva, Iisakki Antino Aijo,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Niskanen, Juha,3.0,1.0,0,1,2,0.0,0.0,0,S,9,6,1
+Mr,Nosworthy, Richard Cater,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Novel, Mansouer,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Miss,Nysten, Anna Sofia,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Nysveen, Johan Hansen,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Mr,O'Brien, Thomas,3.0,0.0,0,1,1,1.0,0.0,0,Q,15,6,1
+Mr,O'Brien, Timothy,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mrs,O'Brien," Thomas (Johanna ""Hannah"" Godfrey)",3.0,1.0,1,0,1,1.0,0.0,0,Q,13,6,1
+Mr,O'Connell, Patrick D,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,O'Connor, Maurice,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,O'Connor, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Odahl, Nils Martin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Ms,O'Donoghue, Bridget,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,O'Driscoll, Bridget,3.0,1.0,1,0,1,0.0,0.0,0,Q,D,6,1
+Miss,O'Dwyer," Ellen ""Nellie""",3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Miss,Ohman, Velin,3.0,1.0,1,0,1,0.0,0.0,0,S,C,6,1
+Mr,O'Keefe, Patrick,3.0,1.0,0,1,1,0.0,0.0,0,Q,B,6,1
+Miss,O'Leary," Hanora ""Norah""",3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Master,Olsen, Artur Karl,3.0,1.0,0,1,0,0.0,1.0,0,S,13,6,1
+Mr,Olsen, Henry Margido,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Olsen, Karl Siegwart Andreas,3.0,0.0,0,1,2,0.0,1.0,0,S,15,6,1
+Mr,Olsen, Ole Martin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Olsson, Elina,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Olsson, Nils Johan Goransson,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Olsson, Oscar Wilhelm,3.0,1.0,0,1,1,0.0,0.0,0,S,A,6,1
+Mr,Olsvigen, Thor Anderson,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Oreskovic, Jelka,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,Oreskovic, Marija,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Oreskovic, Luka,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Osen, Olaf Elon,3.0,0.0,0,1,0,0.0,0.0,0,S,15,6,1
+Mrs,Osman, Mara,3.0,1.0,1,0,1,0.0,0.0,0,S,13,6,1
+Miss,O'Sullivan, Bridget Mary,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Master,Palsson, Gosta Leonard,3.0,0.0,0,1,0,3.0,1.0,0,S,15,6,1
+Master,Palsson, Paul Folke,3.0,0.0,0,1,0,3.0,1.0,0,S,15,6,1
+Miss,Palsson, Stina Viola,3.0,0.0,1,0,0,3.0,1.0,0,S,13,6,1
+Miss,Palsson, Torborg Danira,3.0,0.0,1,0,0,3.0,1.0,0,S,13,6,1
+Mrs,Palsson, Nils (Alma Cornelia Berglund),3.0,0.0,1,0,1,0.0,4.0,0,S,13,6,1
+Master,Panula, Eino Viljami,3.0,0.0,0,1,0,4.0,1.0,0,S,15,6,1
+Master,Panula, Juha Niilo,3.0,0.0,0,1,0,4.0,1.0,0,S,15,6,1
+Master,Panula, Urho Abraham,3.0,0.0,0,1,0,4.0,1.0,0,S,15,6,1
+Mr,Panula, Ernesti Arvid,3.0,0.0,0,1,0,4.0,1.0,0,S,15,6,1
+Mr,Panula, Jaako Arnold,3.0,0.0,0,1,0,4.0,1.0,0,S,15,6,1
+Mrs,Panula, Juha (Maria Emilia Ojala),3.0,0.0,1,0,2,0.0,5.0,0,S,13,6,1
+Mr,Pasic, Jakob,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Patchett, George,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Paulner, Uscher,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Pavlovic, Stefo,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Master,Peacock, Alfred Edward,3.0,0.0,0,1,0,1.0,1.0,0,S,15,6,1
+Miss,Peacock, Treasteall,3.0,0.0,1,0,0,1.0,1.0,0,S,13,6,1
+Mrs,Peacock, Benjamin (Edith Nile),3.0,0.0,1,0,1,0.0,2.0,0,S,13,6,1
+Mr,Pearce, Ernest,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Pedersen, Olaf,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Peduzzi, Joseph,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Pekoniemi, Edvard,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Peltomaki, Nikolai Johannes,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Perkin, John Henry,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Persson, Ernst Ulrik,3.0,1.0,0,1,1,1.0,0.0,0,S,15,6,1
+Master,Peter, Michael J,3.0,1.0,0,1,1,1.0,1.0,0,C,C,6,1
+Miss,Peter, Anna,3.0,1.0,1,0,1,1.0,1.0,0,C,D,5,1
+Mrs,Peter, Catherine (Catherine Rizk),3.0,1.0,1,0,1,0.0,2.0,0,C,D,6,1
+Miss,Peters, Katie,3.0,0.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Petersen, Marius,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Petranec, Matilda,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Petroff, Nedelio,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Petroff," Pastcho (""Pentcho"")",3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Petterson, Johan Emil,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Miss,Pettersson, Ellen Natalia,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Pickard, Berk (Berk Trembisky),3.0,1.0,0,1,1,0.0,0.0,0,S,9,4,1
+Mr,Plotcharsky, Vasil,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Pokrnic, Mate,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Pokrnic, Tome,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Radeff, Alexander,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mrs,Rasmussen, (Lena Jacobsen Solvang),3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Razi, Raihed,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Reed, James George,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Rekic, Tido,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Reynolds, Harold J,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Master,Rice, Albert,3.0,0.0,0,1,0,4.0,1.0,0,Q,15,6,1
+Master,Rice, Arthur,3.0,0.0,0,1,0,4.0,1.0,0,Q,15,6,1
+Master,Rice, Eric,3.0,0.0,0,1,0,4.0,1.0,0,Q,15,6,1
+Master,Rice, Eugene,3.0,0.0,0,1,0,4.0,1.0,0,Q,15,6,1
+Master,Rice, George Hugh,3.0,0.0,0,1,0,4.0,1.0,0,Q,15,6,1
+Mrs,Rice, William (Margaret Norton),3.0,0.0,1,0,2,0.0,5.0,0,Q,13,6,1
+Miss,Riihivouri," Susanna Juhantytar ""Sanni""",3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Rintamaki, Matti,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Miss,Riordan," Johanna ""Hannah""",3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Risien, Samuel Beard,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mrs,Risien, Samuel (Emma),3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Robins, Alexander A,3.0,0.0,0,1,3,1.0,0.0,0,S,15,6,1
+Mrs,Robins, Alexander A (Grace Charity Laury),3.0,0.0,1,0,2,1.0,0.0,0,S,13,6,1
+Mr,Rogers, William John,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Rommetvedt, Knud Paust,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Rosblom, Salli Helena,3.0,0.0,1,0,0,1.0,1.0,0,S,13,6,1
+Mr,Rosblom, Viktor Richard,3.0,0.0,0,1,1,1.0,1.0,0,S,15,6,1
+Mrs,Rosblom, Viktor (Helena Wilhelmina),3.0,0.0,1,0,2,0.0,2.0,0,S,13,6,1
+Miss,Roth, Sarah A,3.0,1.0,1,0,1,0.0,0.0,0,S,C,6,1
+Mr,Rouse, Richard Henry,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Mr,Rush, Alfred George John,3.0,0.0,0,1,0,0.0,0.0,0,S,15,6,1
+Mr,Ryan, Edward,3.0,1.0,0,1,1,0.0,0.0,0,Q,14,6,1
+Mr,Ryan, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Saad, Amin,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Saad, Khalil,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Saade, Jean Nassr,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Sadlier, Matthew,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Sadowitz, Harry,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Saether, Simon Sivertsen,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Master,Sage, Thomas Henry,3.0,0.0,0,1,1,8.0,2.0,0,S,15,6,1
+Master,Sage, William Henry,3.0,0.0,0,1,0,8.0,2.0,0,S,15,6,1
+Miss,Sage, Ada,3.0,0.0,1,0,1,8.0,2.0,0,S,13,6,1
+Miss,Sage, Constance Gladys,3.0,0.0,1,0,1,8.0,2.0,0,S,13,6,1
+Miss,Sage," Dorothy Edith ""Dolly""",3.0,0.0,1,0,1,8.0,2.0,0,S,13,6,1
+Miss,Sage, Stella Anna,3.0,0.0,1,0,1,8.0,2.0,0,S,13,6,1
+Mr,Sage, Douglas Bullen,3.0,0.0,0,1,1,8.0,2.0,0,S,15,6,1
+Mr,Sage, Frederick,3.0,0.0,0,1,1,8.0,2.0,0,S,15,6,1
+Mr,Sage, George John Jr,3.0,0.0,0,1,1,8.0,2.0,0,S,15,6,1
+Mr,Sage, John George,3.0,0.0,0,1,1,1.0,9.0,0,S,15,6,1
+Mrs,Sage, John (Annie Bullen),3.0,0.0,1,0,1,1.0,9.0,0,S,13,6,1
+Mr,Salander, Karl Johan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Salkjelsvik, Anna Kristine,3.0,1.0,1,0,1,0.0,0.0,0,S,C,6,1
+Mr,Salonen, Johan Werner,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Samaan, Elias,3.0,0.0,0,1,1,2.0,0.0,0,C,15,6,1
+Mr,Samaan, Hanna,3.0,0.0,0,1,1,2.0,0.0,0,C,15,6,1
+Mr,Samaan, Youssef,3.0,0.0,0,1,1,2.0,0.0,0,C,15,6,1
+Miss,Sandstrom, Beatrice Irene,3.0,1.0,1,0,0,1.0,1.0,0,S,13,6,1
+Mrs,Sandstrom, Hjalmar (Agnes Charlotta Bengtsson),3.0,1.0,1,0,1,0.0,2.0,0,S,13,6,1
+Miss,Sandstrom, Marguerite Rut,3.0,1.0,1,0,0,1.0,1.0,0,S,13,6,1
+Mr,Sap, Julius,3.0,1.0,0,1,1,0.0,0.0,0,S,11,6,1
+Mr,Saundercock, William Henry,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Sawyer, Frederick Charles,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Scanlan, James,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Sdycoff, Todor,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Shaughnessy, Patrick,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Mr,Sheerlinck, Jan Baptist,3.0,1.0,0,1,1,0.0,0.0,0,S,11,6,1
+Mr,Shellard, Frederick William,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Shine, Ellen Natalia,3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Shorney, Charles Joseph,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Simmons, John,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Sirayanian, Orsen,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Sirota, Maurice,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Sivic, Husein,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Sivola, Antti Wilhelm,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Sjoblom, Anna Sofia,3.0,1.0,1,0,1,0.0,0.0,0,S,16,6,1
+Master,Skoog, Harald,3.0,0.0,0,1,0,3.0,2.0,0,S,15,6,1
+Master,Skoog, Karl Thorsten,3.0,0.0,0,1,0,3.0,2.0,0,S,15,6,1
+Miss,Skoog, Mabel,3.0,0.0,1,0,0,3.0,2.0,0,S,13,6,1
+Miss,Skoog, Margit Elizabeth,3.0,0.0,1,0,0,3.0,2.0,0,S,13,6,1
+Mr,Skoog, Wilhelm,3.0,0.0,0,1,2,1.0,4.0,0,S,15,6,1
+Mrs,Skoog, William (Anna Bernhardina Karlsson),3.0,0.0,1,0,2,1.0,4.0,0,S,13,6,1
+Mr,Slabenoff, Petco,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Slocovski, Selman Francis,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Smiljanic, Mile,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Smith, Thomas,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,6,1
+Miss,Smyth, Julia,3.0,1.0,1,0,1,0.0,0.0,0,Q,13,6,1
+Mr,Soholt, Peter Andreas Lauritz Andersen,3.0,0.0,0,1,1,0.0,0.0,0,S,15,5,1
+Mr,Somerton, Francis William,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Spector, Woolf,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Spinner, Henry John,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Staneff, Ivan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Stankovic, Ivan,3.0,0.0,0,1,2,0.0,0.0,0,C,15,6,1
+Miss,Stanley, Amy Zillah Elsie,3.0,1.0,1,0,1,0.0,0.0,0,S,C,6,1
+Mr,Stanley, Edward Roland,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Stoytcheff, Ilia,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Strandberg, Ida Sofia,3.0,0.0,1,0,1,0.0,0.0,0,S,13,6,1
+Mr,Stranden, Juho,3.0,1.0,0,1,1,0.0,0.0,0,S,9,6,1
+Mr,Strilic, Ivan,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Strom, Telma Matilda,3.0,0.0,1,0,0,0.0,1.0,0,S,13,6,1
+Mrs,Strom, Wilhelm (Elna Matilda Persson),3.0,0.0,1,0,1,1.0,1.0,0,S,13,6,1
+Mr,Sunderland, Victor Francis,3.0,1.0,0,1,0,0.0,0.0,0,S,B,6,1
+Mr,Sundman, Johan Julian,3.0,1.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Sutehall, Henry Jr,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Svensson, Johan,3.0,0.0,0,1,4,0.0,0.0,0,S,15,6,1
+Mr,Svensson, Johan Cervin,3.0,1.0,0,1,0,0.0,0.0,0,S,13,6,1
+Mr,Svensson, Olof,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Tenglin, Gunnar Isidor,3.0,1.0,0,1,1,0.0,0.0,0,S,13 15,6,1
+Mr,Theobald, Thomas Leonard,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Master,Thomas, Assad Alexander,3.0,1.0,0,1,0,0.0,1.0,0,C,16,6,1
+Mr,Thomas, Charles P,3.0,0.0,0,1,1,1.0,0.0,0,C,15,6,1
+Mr,Thomas, John,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Thomas, Tannous,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mrs,Thomas," Alexander (Thamine ""Thelma"")",3.0,1.0,1,0,0,1.0,1.0,0,C,14,6,1
+Mr,Thomson, Alexander Morrison,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Thorneycroft, Percival,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,Thorneycroft, Percival (Florence Kate White),3.0,1.0,1,0,1,1.0,0.0,0,S,10,6,1
+Mr,Tikkanen, Juho,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Tobin, Roger,3.0,0.0,0,1,1,0.0,0.0,0,Q,15,5,1
+Mr,Todoroff, Lalio,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Tomlin, Ernest Portage,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Torber, Ernst William,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Torfa, Assad,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Tornquist, William Henry,3.0,1.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Toufik, Nakli,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Master,Touma, Georges Youssef,3.0,1.0,0,1,0,1.0,1.0,0,C,C,6,1
+Miss,Touma, Maria Youssef,3.0,1.0,1,0,0,1.0,1.0,0,C,C,6,1
+Mrs,Touma, Darwis (Hanne Youssef Razi),3.0,1.0,1,0,1,0.0,2.0,0,C,C,6,1
+Mr,Turcin, Stjepan,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Miss,Turja, Anna Sofia,3.0,1.0,1,0,1,0.0,0.0,0,S,15,6,1
+Mrs,Turkula, (Hedwig),3.0,1.0,1,0,3,0.0,0.0,0,S,15,6,1
+Master,van Billiard, James William,3.0,0.0,0,1,1,1.0,1.0,0,S,15,6,1
+Master,van Billiard, Walter John,3.0,0.0,0,1,0,1.0,1.0,0,S,15,6,1
+Mr,van Billiard, Austin Blyler,3.0,0.0,0,1,2,0.0,2.0,0,S,15,6,1
+Miss,Van Impe, Catharina,3.0,0.0,1,0,0,0.0,2.0,0,S,13,6,1
+Mr,Van Impe, Jean Baptiste,3.0,0.0,0,1,2,1.0,1.0,0,S,15,6,1
+Mrs,Van Impe, Jean Baptiste (Rosalie Paula Govaert),3.0,0.0,1,0,1,1.0,1.0,0,S,13,6,1
+Mr,van Melkebeke, Philemon,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Vande Velde, Johannes Joseph,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Vande Walle, Nestor Cyriel,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Vanden Steen, Leo Peter,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Vander Cruyssen, Victor,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Miss,Vander Planke, Augusta Maria,3.0,0.0,1,0,1,2.0,0.0,0,S,13,6,1
+Mr,Vander Planke, Julius,3.0,0.0,0,1,1,3.0,0.0,0,S,15,6,1
+Mr,Vander Planke, Leo Edmondus,3.0,0.0,0,1,0,2.0,0.0,0,S,15,6,1
+Mrs,Vander Planke, Julius (Emelia Maria Vandemoortele),3.0,0.0,1,0,1,1.0,0.0,0,S,13,6,1
+Mr,Vartanian, David,3.0,1.0,0,1,1,0.0,0.0,0,C,13 15,6,1
+Mr,Vendel, Olof Edvin,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Miss,Vestrom, Hulda Amanda Adolfina,3.0,0.0,1,0,0,0.0,0.0,0,S,13,6,1
+Mr,Vovk, Janko,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Waelens, Achille,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Ware, Frederick,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Warren, Charles William,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Webber, James,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Wenzel, Linhart,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mrs,Whabee, George Joseph (Shawneene Abi-Saab),3.0,1.0,1,0,2,0.0,0.0,0,C,C,6,1
+Mr,Widegren, Carl/Charles Peter,3.0,0.0,0,1,3,0.0,0.0,0,S,15,6,1
+Mr,Wiklund, Jakob Alfred,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mr,Wiklund, Karl Johan,3.0,0.0,0,1,1,1.0,0.0,0,S,15,6,1
+Mrs,Wilkes, James (Ellen Needs),3.0,1.0,1,0,2,1.0,0.0,0,S,13,6,1
+Mr,Willer," Aaron (""Abi Weller"")",3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Willey, Edward,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Williams," Howard Hugh ""Harry""",3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Williams, Leslie,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Windelov, Einar,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Wirz, Albert,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Wiseman, Phillippe,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
+Mr,Wittevrongel, Camille,3.0,0.0,0,1,2,0.0,0.0,0,S,15,6,1
+Mr,Yasbeck, Antoni,3.0,0.0,0,1,1,1.0,0.0,0,C,C,6,1
+Mrs,Yasbeck, Antoni (Selini Alexander),3.0,1.0,1,0,0,1.0,0.0,0,C,13,6,1
+Mr,Youseff, Gerious,3.0,0.0,0,1,2,0.0,0.0,0,C,15,6,1
+Mr,Yousif, Wazli,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Yousseff, Gerious,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Miss,Zabour, Hileni,3.0,0.0,1,0,0,1.0,0.0,0,C,13,6,1
+Miss,Zabour, Thamine,3.0,0.0,1,0,1,1.0,0.0,0,C,13,6,1
+Mr,Zakarian, Mapriededer,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Zakarian, Ortin,3.0,0.0,0,1,1,0.0,0.0,0,C,15,6,1
+Mr,Zimmerman, Leo,3.0,0.0,0,1,1,0.0,0.0,0,S,15,6,1
