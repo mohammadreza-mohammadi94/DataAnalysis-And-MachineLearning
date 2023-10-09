@@ -8,7 +8,9 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Folder:** [Titanic Data Analysis ](https://github.com/jigsaw1313/data-analysis/tree/master/titanic)
 - **Description:** data analysis process such as data cleaning , data reduction and transformation and some basic visualization
 
-
+### Project 2: [Red-Wine]
+- **Filder:** [Red-win Quality](https://github.com/jigsaw1313/data-analysis/tree/master/wine%20quality)  
+- **Description:** This project analyzes a dataset of red wine quality. It aims to provide insights into the factors influencing wine quality. 
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
