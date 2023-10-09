@@ -29,7 +29,7 @@ Python and Libraries: Ensure that you have Python installed on your system. You'
 
 To run or replicate the analyses in each project folder, follow these steps:
 
-1. Clone this repository to your local machine using `git clone <repository-url>`.
+1. Clone this repository to your local machine using `git clone https://github.com/jigsaw1313/data-analysis.git`.
 2. Navigate to the specific project folder (e.g., [project1]).
 3. Read the project's README.md file for detailed instructions on running the analysis.
 4. Follow the provided instructions to execute the analysis scripts or notebooks.
