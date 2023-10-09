@@ -32,7 +32,7 @@ The dataset used in this analysis can be found [here](https://github.com/jigsaw1
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository:  
 git clone https://github.com/yourusername/wine-quality-analysis.git
 
 2. Install required libraries if not already installed:
