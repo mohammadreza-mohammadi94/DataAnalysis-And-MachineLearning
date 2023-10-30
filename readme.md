@@ -16,6 +16,10 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Folder:** [Weather Conditions](https://github.com/jigsaw1313/data-analysis/tree/master/weather%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. The dataset includes various parameters such as temperature, dew point, relative humidity, wind speed, visibility, pressure, and weather conditions.
 
+### Project 4: [Car's Analysis]
+- **Folder:** [Car's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/cars)  
+- **Description:** This repository contains the code and analysis for the exploration of the Cars Dataset
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
