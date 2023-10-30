@@ -26,9 +26,6 @@ The analysis focuses on cleaning the dataset, handling missing values, and perfo
 
 The analysis offers comprehensive insights into various car attributes, highlighting correlations between different features such as price, horsepower, mileage, and other factors. Visualizations provide a clear understanding of the distribution and relationships within the dataset, aiding in the identification of key trends and patterns.
 
-## Authors
-
-- [Your Name]
 
 ## License
 
