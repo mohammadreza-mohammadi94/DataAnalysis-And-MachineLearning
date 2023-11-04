@@ -15,6 +15,7 @@ This repository contains the code and analysis for the exploration of the Police
 
 1. Clone the repository to your local machine.
 2. Open the Jupyter Notebook `Police-Dataset.ipynb` to view the complete analysis and visualization.
+3. [Google Colab](https://colab.research.google.com/drive/16cT5u8-RV0Q_Xn2apsmXMzJ0j3lLwfIt?usp=sharing)
 
 ## Overview
 
