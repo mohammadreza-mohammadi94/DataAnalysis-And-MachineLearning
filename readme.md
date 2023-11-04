@@ -20,6 +20,11 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Folder:** [Car's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/cars)  
 - **Description:** This repository contains the code and analysis for the exploration of the Cars Dataset
 
+
+### Project 5: [Police Analysis]
+- **Folder:** [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
+- **Description:** This repository contains the code and analysis for the exploration of the Police Dataset, which provides comprehensive information about various police stops, including details about the drivers, violations, search outcomes, and other related factors
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
