@@ -37,4 +37,4 @@ The analysis provides valuable insights into the impact of the COVID-19 pandemic
 
 ## Author
 
-- Jigsaw1313 | Mohammadreza Mohammadi
+- [Jigsaw1313 | Mohammadreza Mohammadi](https://github.com/jigsaw1313)
