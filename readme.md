@@ -25,6 +25,10 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Folder:** [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Police Dataset, which provides comprehensive information about various police stops, including details about the drivers, violations, search outcomes, and other related factors
 
+### Project 5: [COVID-19 Analysis]
+- **Folder:** [COVID-19 Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/covid-19%20(small%20%26%20easy%20dataset))  
+- **Description:** This repository contains the code and analysis for understanding the trends and patterns related to the COVID-19 pandemic.
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
