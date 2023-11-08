@@ -33,6 +33,10 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Folder:** [London Housing Analysis]()  
 - **Description:** This project is not yet complete.
 
+### Project 8: [World Population EDA]
+- **Folder:** [World Population]()  
+- **Description:** This project is not yet complete.
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
