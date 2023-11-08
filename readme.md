@@ -34,8 +34,8 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** This project is not yet complete.
 
 ### Project 8: [World Population EDA]
-- **Folder:** [World Population]()  
-- **Description:** This project is not yet complete.
+- **Folder:** [World Population](https://github.com/jigsaw1313/data-analysis/tree/master/world%20population%20%5BExploratory%20Data%20Analysis%5D)  
+- **Description:** This repository contains the code and analysis for exploring world population data
 
 ## Getting Started
 
