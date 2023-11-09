@@ -21,13 +21,13 @@ This notebook (located at URL) loads the cleaned data and:
 * Saves encoded/scaled data
 
 # Requirements
-Python 3.x
-Pandas
-NumPy
-Scikit-learn
+* Python 3.x  
+* Pandas  
+* NumPy  
+* Scikit-learn  
 
 # Usage
 The notebooks can be run directly on Google Colab or the code can be reused on other datasets.
 
-Contributing
+# Contributing
 Fork and improve! Pull requests are welcome.

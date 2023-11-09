@@ -38,7 +38,7 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** This repository contains the code and analysis for exploring world population data
 
 ### Project 8: [WData Science Job's Analysis]
-- **Folder:** [WData Science Job's Analysis]()  
+- **Folder:** [WData Science Job's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/Data%20Science%20Jobs)  
 - **Description:** This repository contains two Jupyter Notebooks that demonstrate data preprocessing techniques on a job listing dataset.
 
 
