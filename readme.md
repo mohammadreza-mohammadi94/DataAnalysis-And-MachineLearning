@@ -5,44 +5,49 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 ## Projects
 
 ### Project 1: [Titanic]
-- **Level:** Basic data cleaning, scaling and visualizaiton.
 - **Folder:** [Titanic Data Analysis ](https://github.com/jigsaw1313/data-analysis/tree/master/titanic)
 - **Description:** data analysis process such as data cleaning , data reduction and transformation and some basic visualization
+- **Level:** Basic data cleaning, scaling and visualizaiton.
 
 ### Project 2: [Red-Wine]
-- **Level:** Advanced statistical analysis and visualization.
 - **Folder:** [Red-wine Quality](https://github.com/jigsaw1313/data-analysis/tree/master/wine%20quality)  
 - **Description:** This project analyzes a dataset of red wine quality. It aims to provide insights into the factors influencing wine quality. 
+- **Level:** Advanced statistical analysis and visualization.
 
 ### Project 3: [Weather Analysis]
-- **Level:** Advanced statistical analysis and intermediate analysis.
 - **Folder:** [Weather Conditions](https://github.com/jigsaw1313/data-analysis/tree/master/weather%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. The dataset includes various parameters such as temperature, dew point, relative humidity, wind speed, visibility, pressure, and weather conditions.
+- **Level:** Advanced statistical analysis and intermediate visualization.
 
 ### Project 4: [Car's Analysis]
-- **Folder:** [Car's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/cars)  
+- **Folder:** [Car's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/4-%20Cars)  
 - **Description:** This repository contains the code and analysis for the exploration of the Cars Dataset
+- **Level:** Intermediate visualization and alaysis.
 
 ### Project 5: [Police Analysis]
 - **Folder:** [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Police Dataset, which provides comprehensive information about various police stops, including details about the drivers, violations, search outcomes, and other related factors
+- **Level:** Intermediate statistical analysis and visualization
 
 ### Project 6: [COVID-19 Analysis]
 - **Folder:** [COVID-19 Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/covid-19%20(small%20%26%20easy%20dataset))  
 - **Description:** This repository contains the code and analysis for understanding the trends and patterns related to the COVID-19 pandemic.
+- **Level:** Basic data analysis.
 
 ### Project 7: [London Housing Analysis]
-- **Folder:** [London Housing Analysis]()  
+- **Folder:** [London Housing Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/7-%20London%20Housing%20Analysis%20%5BEasy%5D)  
 - **Description:** This project is not yet complete.
+- **Level:** N/A
 
 ### Project 8: [World Population EDA]
 - **Folder:** [World Population](https://github.com/jigsaw1313/data-analysis/tree/master/world%20population%20%5BExploratory%20Data%20Analysis%5D)  
 - **Description:** This repository contains the code and analysis for exploring world population data
+- **Level:** Intermediate descriptive statistics and visualization.
 
-### Project 8: [WData Science Job's Analysis]
+### Project 8: [Data Science Job's Analysis]
 - **Folder:** [Data Science Job's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/Data%20Science%20Jobs)  
 - **Description:** This repository contains two Jupyter Notebooks that demonstrate data preprocessing techniques on a job listing dataset.
-
+- **Level:** Advanced preprocessing and scaling.
 
 ## Getting Started
 
