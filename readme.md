@@ -5,21 +5,23 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 ## Projects
 
 ### Project 1: [Titanic]
+- **Level:** Basic data cleaning, scaling and visualizaiton.
 - **Folder:** [Titanic Data Analysis ](https://github.com/jigsaw1313/data-analysis/tree/master/titanic)
 - **Description:** data analysis process such as data cleaning , data reduction and transformation and some basic visualization
 
 ### Project 2: [Red-Wine]
+- **Level:** Advanced statistical analysis and visualization.
 - **Folder:** [Red-wine Quality](https://github.com/jigsaw1313/data-analysis/tree/master/wine%20quality)  
 - **Description:** This project analyzes a dataset of red wine quality. It aims to provide insights into the factors influencing wine quality. 
 
 ### Project 3: [Weather Analysis]
+- **Level:** Advanced statistical analysis and intermediate analysis.
 - **Folder:** [Weather Conditions](https://github.com/jigsaw1313/data-analysis/tree/master/weather%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. The dataset includes various parameters such as temperature, dew point, relative humidity, wind speed, visibility, pressure, and weather conditions.
 
 ### Project 4: [Car's Analysis]
 - **Folder:** [Car's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/cars)  
 - **Description:** This repository contains the code and analysis for the exploration of the Cars Dataset
-
 
 ### Project 5: [Police Analysis]
 - **Folder:** [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
