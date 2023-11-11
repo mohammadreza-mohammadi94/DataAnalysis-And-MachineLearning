@@ -17,7 +17,7 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 ### Project 3: [Weather Analysis]
 - **Folder:** [Weather Conditions](https://github.com/jigsaw1313/data-analysis/tree/master/weather%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. The dataset includes various parameters such as temperature, dew point, relative humidity, wind speed, visibility, pressure, and weather conditions.
-- **Level:** Advanced statistical analysis and intermediate visualization.
+- **Level:** intermediate statistical analysis and intermediate visualization.
 
 ### Project 4: [Car's Analysis]
 - **Folder:** [Car's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/4-%20Cars)  
@@ -44,10 +44,16 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** This repository contains the code and analysis for exploring world population data
 - **Level:** Intermediate descriptive statistics and visualization.
 
-### Project 8: [Data Science Job's Analysis]
+### Project 9: [Data Science Job's Analysis]
 - **Folder:** [Data Science Job's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/Data%20Science%20Jobs)  
 - **Description:** This repository contains two Jupyter Notebooks that demonstrate data preprocessing techniques on a job listing dataset.
 - **Level:** Advanced preprocessing and scaling.
+
+### Project 10: [Udemy Courses Analysis]
+- **Folder:** [Udemy Courses Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/10-%20Udemy%20Courses)  
+- **Description:** Analyzing Udemy courses dataset for insights using Python data analysis tools.
+- **Level:** intermediate 
+
 
 ## Getting Started
 

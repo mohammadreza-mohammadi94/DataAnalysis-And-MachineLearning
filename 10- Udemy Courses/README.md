@@ -26,7 +26,7 @@ EDA involves visualizing data distribution, exploring unique values in the 'subj
 
 Various visualizations are included, such as a correlation heatmap, stacked bar plots for subject/level distribution, courses per year, box plots for outlier detection, histograms for numeric features, distribution of subjects, and a pie chart for the distribution of paid and free courses.
 
-### Usage
+## Usage
 The notebooks can be run directly on Google Colab or the code can be reused on other datasets.
 
 ## Conclusion
