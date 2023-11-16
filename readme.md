@@ -1,4 +1,5 @@
 # Data Analysis Repository
+![Data Analysis](https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg)
 
 Welcome to the 'data-analysis' repository, where you'll find various data analysis projects. Each project is organized into its respective folder, making it easy to explore and understand the analyses conducted.
 
