@@ -52,8 +52,12 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 ### Project 10: [Udemy Courses Analysis]
 - **Folder:** [Udemy Courses Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/10-%20Udemy%20Courses)  
 - **Description:** Analyzing Udemy courses dataset for insights using Python data analysis tools.
-- **Level:** intermediate 
+- **Level:** Intermediate 
 
+### Project 11: [Netflix's Movies/TV Shows Analysis]
+- **Folder:** [Netflix's Movies/TV Shows Analysis Dataset #1](https://github.com/jigsaw1313/data-analysis/tree/master/11-%20Netflix%20%231)  
+- **Description:** Explore and analyze the Netflix dataset for insights into release trends, ratings, genres, and more.
+- **Level:**  Advanced
 
 ## Getting Started
 
