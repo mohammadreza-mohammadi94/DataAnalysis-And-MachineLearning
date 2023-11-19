@@ -60,6 +60,11 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** Explore and analyze the Netflix dataset for insights into release trends, ratings, genres, and more.
 - **Level:**  Advanced
 
+### Project 12: [Spotify #1]
+- **Folder:** [Spotify #1](https://github.com/jigsaw1313/data-analysis/tree/master/12-%20Spotify%20%231)  
+- **Description:** This project covers data cleaning, visualization, and statistical insights.
+- **Level:**  Advanced
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
