@@ -16,6 +16,8 @@ This project involves data analysis and preprocessing for the Titanic dataset to
 The dataset used in this project can be found [here](https://raw.githubusercontent.com/PeterLOVANAS/Titanic-machine-learning-project/main/datasets/Titanic_dataset_com.csv). It contains information about Titanic passengers.
 
 ## Data Preprocessing
+This repository contains two version of preprocessing. second analysis has been added with Model Analysis.
+Link to [Kaggle](https://www.kaggle.com/code/jigsaw13/titanic-data-analysis/notebook?scriptVersionId=151538575)
 
 ### Solving Missing Values
 
