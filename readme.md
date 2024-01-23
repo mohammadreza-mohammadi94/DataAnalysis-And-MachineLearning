@@ -70,6 +70,12 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** The dataset Refugees contains information about refugees, asylum seekers...
 - **Level:**  Intermediate
 
+### Project 13: [Stock's Prices (2006 - 2018)]
+- **Folder:** [Stock Prices](https://github.com/jigsaw1313/Data-Analysis/tree/master/Stocks)  
+- **Description:** The repository contains descriptive and inferential analysis for different stocks information during 2006-2018.
+- **Level:**  Advanced
+
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
