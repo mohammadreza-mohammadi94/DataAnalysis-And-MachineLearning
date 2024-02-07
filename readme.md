@@ -70,14 +70,19 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** The dataset Refugees contains information about refugees, asylum seekers...
 - **Level:**  Intermediate
 
-### Project 13: [Stock's Prices (2006 - 2018)]
+### Project 14: [Stock's Prices (2006 - 2018)]
 - **Folder:** [Stock Prices](https://github.com/jigsaw1313/Data-Analysis/tree/master/Stocks)  
 - **Description:** The repository contains descriptive and inferential analysis for different stocks information during 2006-2018.
 - **Level:**  Advanced
 
-### Project 14: [California Housing Descriptive & Inferential Analysis]
+### Project 15: [California Housing Descriptive & Inferential Analysis]
 - **Folder:** [California Housing](https://github.com/jigsaw1313/Data-Analysis/tree/master/California%20Housing%20Analysis)  
 - **Description:** The repository contains descriptive and inferential analysis for california housing dataset.
+- **Level:**  Advanced
+
+### Project 16: [Flights Dataset EDA]
+- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Flights%20Dataset%20-%20EDA)  
+- **Description:** This repository contains a data analysis project focusing on flight delays
 - **Level:**  Advanced
 
 ## Getting Started
