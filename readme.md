@@ -85,6 +85,16 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** This repository contains a data analysis project focusing on flight delays
 - **Level:**  Advanced
 
+### Project 17: [Automobile Dataset]
+- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)  
+- **Description:** TThis repository contains a Jupyter Notebook (Automobile.ipynb) that explores the Automobile dataset. The notebook covers various aspects of data analysis including data cleaning, visualization, and exploratory data analysis (EDA).
+- **Level:**  Advanced
+
+### Project 18: [Salary Dataset]
+- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Salary%20Data)  
+- **Description:** This data analysis, explores the Salary Dataset through Exploratory Data Analysis (EDA). The notebook covers various aspects of data analysis, including data cleaning, visualization, and deriving insights from the data.
+- **Level:**  Advanced
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
