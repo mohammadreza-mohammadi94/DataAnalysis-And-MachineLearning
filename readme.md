@@ -95,6 +95,11 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** This data analysis, explores the Salary Dataset through Exploratory Data Analysis (EDA). The notebook covers various aspects of data analysis, including data cleaning, visualization, and deriving insights from the data.
 - **Level:**  Advanced
 
+### Project 1: [Maven Roaster Dataset]
+- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Maven%20Roasters)  
+- **Description:** This data analysis, explores the sales revenue dataset of Maven Roasters Coffee Shop through Exploratory Data Analysis (EDA).
+- **Level:**  Advanced
+
 ## Getting Started
 
 If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
