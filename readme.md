@@ -86,22 +86,22 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Level:**  Advanced
 
 ### Project 17: [Automobile Dataset]
-- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)  
+- **Folder:** [Automobile Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)  
 - **Description:** TThis repository contains a Jupyter Notebook (Automobile.ipynb) that explores the Automobile dataset. The notebook covers various aspects of data analysis including data cleaning, visualization, and exploratory data analysis (EDA).
 - **Level:**  Advanced
 
 ### Project 18: [Salary Dataset]
-- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Salary%20Data)  
+- **Folder:** [Salary Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Salary%20Data)  
 - **Description:** This data analysis, explores the Salary Dataset through Exploratory Data Analysis (EDA). The notebook covers various aspects of data analysis, including data cleaning, visualization, and deriving insights from the data.
 - **Level:**  Advanced
 
 ### Project 19: [Maven Roaster Dataset]
-- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Maven%20Roasters)  
+- **Folder:** [Maven Roaster Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Maven%20Roasters)  
 - **Description:** This data analysis, explores the sales revenue dataset of Maven Roasters Coffee Shop through Exploratory Data Analysis (EDA).
 - **Level:**  Advanced
 
 ### Project 20: [Seaborn's Taxis Dataset]
-- **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Seaborn%20Taxis%20Dataset)  
+- **Folder:** [Seaborn's Taxis Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Seaborn%20Taxis%20Dataset)  
 - **Description:** This notebook presents an analysis of the Taxis dataset using various visualization techniques with Seaborn library in Python.
 - **Level:**  Advanced
 
