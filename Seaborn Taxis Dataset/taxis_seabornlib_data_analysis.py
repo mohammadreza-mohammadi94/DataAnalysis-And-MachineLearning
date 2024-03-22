@@ -49,6 +49,9 @@ for col in df.select_dtypes('object'):
 # There not much NaNs , so i will drop them all.
 df.dropna(inplace=True)
 
+# Check duplicate records
+df.duplicated().sum()
+
 df.info() # check dataframe
 
 """## Feature Engineering
@@ -60,6 +63,13 @@ df.info() # check dataframe
 df['trip_day'] = df['pickup'].dt.day
 df['trip_month'] = df['pickup'].dt.month
 df['trip_year'] = df['pickup'].dt.year
+
+# Calculate time difference between pickup and dropoff to get trip duration
+df['trip_duration'] = (df['dropoff'] - df['pickup'])
+# Convert trip duration to minutes
+df['trip_duration_minutes'] = df['trip_duration'].dt.total_seconds() / 60
+# Drop the intermediate 'trip_duration' column if needed
+df.drop(columns=['trip_duration'], inplace=True)
 
 """## Tip Percentage Of Fare"""
 
@@ -85,6 +95,8 @@ outlier('tip')
 outlier('fare')
 
 outlier('tolls')
+
+outlier('trip_duration_minutes')
 
 """## Distributions"""
 
@@ -126,6 +138,8 @@ get_dist('tolls')
 
 get_dist('total')
 
+get_dist('trip_duration_minutes')
+
 """## Frequncy Tables"""
 
 def frequency_table(col, sort=False, n=10):
@@ -142,6 +156,64 @@ frequency_table('dropoff_zone')
 frequency_table('pickup_borough')
 
 frequency_table('dropoff_borough', sort=False, n=3)
+
+"""## Longest and Shortest Trips
+
+### Longest Trips
+"""
+
+(df.sort_values(by='trip_duration_minutes', ascending=False) \
+ [['pickup', 'dropoff', 'distance', 'fare', 'tip', 'total', 'pickup_zone', 'dropoff_zone', 'trip_duration_minutes']].reset_index(drop=True).head(10))
+
+"""### Shortest Trips"""
+
+(df.sort_values(by='trip_duration_minutes', ascending=True) \
+ [['pickup', 'dropoff', 'distance', 'fare', 'tip', 'total', 'pickup_zone', 'dropoff_zone', 'trip_duration_minutes']].reset_index(drop=True).head(10))
+
+distance = df['distance']
+total_amount = df['total']
+trip_duration_minutes = df['trip_duration_minutes']
+
+# Creating the scatter plot
+plt.figure(figsize=(10, 6))
+plt.scatter(distance, total_amount, c=trip_duration_minutes, cmap='viridis', alpha=0.5)
+plt.colorbar(label='Trip Duration (minutes)')
+plt.xlabel('Distance')
+plt.ylabel('Total Amount')
+plt.title('Relationship Between Distance, Total Amount, and Trip Duration')
+plt.grid(True)
+plt.show()
+
+"""## Trip Durations Between Weekdays and Weekends"""
+
+df['weekday'] = df['pickup'].dt.weekday
+
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='weekday', y='trip_duration_minutes', data=df)
+plt.xlabel('Weekday (0=Monday, 6=Sunday)')
+plt.ylabel('Trip Duration (minutes)')
+plt.title('Comparison of Trip Durations between Weekdays and Weekends')
+plt.show()
+
+"""## Search Trips By Pickup and Dropoff Zone"""
+
+# Let's check top pickup and dropoff zone
+# Top pickup zones
+df['pickup_zone'].value_counts().head(10)
+
+# Top dropoff zone
+df['dropoff_zone'].value_counts().head(10)
+
+def search_by_zone(pickup_zone: str,
+                   dropoff_zone: str,
+                   columns: list,
+                   sort_by='total',
+                   sort_ascending=False
+                   ):
+  return (df[(df['pickup_zone'] == pickup_zone) & (df['dropoff_zone'] == dropoff_zone)][columns] \
+    .sort_values(sort_by, ascending=sort_ascending).reset_index(drop=True))
+
+search_by_zone("Midtown Center", 'Midtown East', ['pickup', 'distance', 'fare', 'tip', 'trip_day', 'total', 'trip_duration_minutes', 'pickup_zone', 'dropoff_zone'])
 
 """## Fare / Distance"""
 
@@ -179,8 +251,6 @@ plt.xticks(range(1, 32), [f'{day}' for day in range(1, 32)], rotation=45)
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.tight_layout()
 plt.show()
-
-df.head()
 
 """## Distribution of Pickup Zone"""
 
@@ -314,3 +384,10 @@ plot_regplot('total', 'tip', data=df, title="total Vs tip", xlabel='total', ylab
 
 plot_regplot('total', 'tolls', data=df, title="total Vs tolls", xlabel='total', ylabel='tolls')
 
+plot_regplot('total', 'trip_duration_minutes', data=df)
+
+df.head()
+
+"""# Save Datafram to .csv"""
+
+df.to_csv('<PATH>', index=False)
