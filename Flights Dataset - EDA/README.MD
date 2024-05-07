@@ -5,7 +5,7 @@
 This repository contains a data analysis project focusing on flight delays. The dataset includes information about 336,776 flights in the year 2013, covering various features such as departure time, departure delay, arrival time, carrier, origin, destination, and more.
 
 ## Project Structure
-- **Data Analysis Notebook:** The Jupyter Notebook (`flight_delay_analysis.ipynb`) includes the entire data analysis process.
+- **Data Analysis Notebook:** The Jupyter Notebook (`Flights.ipynb`) includes the entire data analysis process.
 - **Dataset:** The dataset (`flights.csv`) used for the analysis.
 
 
@@ -28,10 +28,7 @@ This repository contains a data analysis project focusing on flight delays. The 
    pip install seaborn
    ```
 
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook flight_delay_analysis.ipynb
-   ```
+3. Run the Jupyter Notebook
 
 ## Contributors
 
