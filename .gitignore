@@ -1,7 +1,2 @@
-**/*.ipynb_checkpoints/
-Flights Dataset - EDA/Flight-EDA-to-Preprocessing/
-Covid-19 (Simple Dataset)/.ipynb_checkpoints/covid-19 Analysis-checkpoint.ipynb
-Flights Dataset - EDA/.ipynb_checkpoints/Flights-checkpoint.ipynb
-Police/.ipynb_checkpoints/Police-Dataset-checkpoint.ipynb
-Red Wine Quality/.ipynb_checkpoints/redwine-checkpoint.ipynb
-Weather Conditions/.ipynb_checkpoints/weather-checkpoint.ipynb
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
