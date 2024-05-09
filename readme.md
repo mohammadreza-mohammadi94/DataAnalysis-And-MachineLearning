@@ -20,89 +20,89 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** This repository contains the code and analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. The dataset includes various parameters such as temperature, dew point, relative humidity, wind speed, visibility, pressure, and weather conditions.
 - **Level:** intermediate statistical analysis and intermediate visualization.
 
-### Project 4: [Car's Analysis]
-- **Folder:** [Car's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/4-%20Cars)  
-- **Description:** This repository contains the code and analysis for the exploration of the Cars Dataset
-- **Level:** Intermediate visualization and alaysis.
-
-### Project 5: [Police Analysis]
+### Project 4: [Police Analysis]
 - **Folder:** [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Police Dataset, which provides comprehensive information about various police stops, including details about the drivers, violations, search outcomes, and other related factors
 - **Level:** Intermediate statistical analysis and visualization
 
-### Project 6: [COVID-19 Analysis]
+### Project 5: [COVID-19 Analysis]
 - **Folder:** [COVID-19 Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/covid-19%20(small%20%26%20easy%20dataset))  
 - **Description:** This repository contains the code and analysis for understanding the trends and patterns related to the COVID-19 pandemic.
 - **Level:** Basic data analysis.
 
-### Project 7: [London Housing Analysis]
+### Project 6: [London Housing Analysis]
 - **Folder:** [London Housing Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/7-%20London%20Housing%20Analysis%20%5BEasy%5D)  
 - **Description:** This project is not yet complete.
 - **Level:** N/A
 
-### Project 8: [World Population EDA]
+### Project 7: [World Population EDA]
 - **Folder:** [World Population](https://github.com/jigsaw1313/data-analysis/tree/master/world%20population%20%5BExploratory%20Data%20Analysis%5D)  
 - **Description:** This repository contains the code and analysis for exploring world population data
 - **Level:** Intermediate descriptive statistics and visualization.
 
-### Project 9: [Data Science Job's Analysis]
+### Project 8: [Data Science Job's Analysis]
 - **Folder:** [Data Science Job's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/Data%20Science%20Jobs)  
 - **Description:** This repository contains two Jupyter Notebooks that demonstrate data preprocessing techniques on a job listing dataset.
 - **Level:** Advanced preprocessing and scaling.
 
-### Project 10: [Udemy Courses Analysis]
+### Project 9: [Udemy Courses Analysis]
 - **Folder:** [Udemy Courses Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/10-%20Udemy%20Courses)  
 - **Description:** Analyzing Udemy courses dataset for insights using Python data analysis tools.
 - **Level:** Intermediate 
 
-### Project 11: [Netflix's Movies/TV Shows Analysis]
+### Project 10: [Netflix's Movies/TV Shows Analysis]
 - **Folder:** [Netflix's Movies/TV Shows Analysis Dataset #1](https://github.com/jigsaw1313/data-analysis/tree/master/11-%20Netflix%20%231)  
 - **Description:** Explore and analyze the Netflix dataset for insights into release trends, ratings, genres, and more.
 - **Level:**  Advanced
 
-### Project 12: [Spotify #1]
+### Project 11: [Spotify #1]
 - **Folder:** [Spotify #1](https://github.com/jigsaw1313/data-analysis/tree/master/12-%20Spotify%20%231)  
 - **Description:** This project covers data cleaning, visualization, and statistical insights.
 - **Level:**  Advanced
 
-### Project 13: [Refugees (2010 - 2020)]
+### Project 12: [Refugees (2010 - 2020)]
 - **Folder:** [Refugees](https://github.com/jigsaw1313/Data-Analysis/tree/master/13-%20Refugees%20Dataset)  
 - **Description:** The dataset Refugees contains information about refugees, asylum seekers...
 - **Level:**  Intermediate
 
-### Project 14: [Stock's Prices (2006 - 2018)]
+### Project 13: [Stock's Prices (2006 - 2018)]
 - **Folder:** [Stock Prices](https://github.com/jigsaw1313/Data-Analysis/tree/master/Stocks)  
 - **Description:** The repository contains descriptive and inferential analysis for different stocks information during 2006-2018.
 - **Level:**  Advanced
 
-### Project 15: [California Housing Descriptive & Inferential Analysis]
+### Project 14: [California Housing Descriptive & Inferential Analysis]
 - **Folder:** [California Housing](https://github.com/jigsaw1313/Data-Analysis/tree/master/California%20Housing%20Analysis)  
 - **Description:** The repository contains descriptive and inferential analysis for california housing dataset.
 - **Level:**  Advanced
 
-### Project 16: [Flights Dataset EDA]
+### Project 15: [Flights Dataset EDA]
 - **Folder:** [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Flights%20Dataset%20-%20EDA)  
 - **Description:** This repository contains a data analysis project focusing on flight delays
 - **Level:**  Advanced
 
-### Project 17: [Automobile Dataset]
+### Project 16: [Automobile Dataset]
 - **Folder:** [Automobile Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)  
 - **Description:** TThis repository contains a Jupyter Notebook (Automobile.ipynb) that explores the Automobile dataset. The notebook covers various aspects of data analysis including data cleaning, visualization, and exploratory data analysis (EDA).
 - **Level:**  Advanced
 
-### Project 18: [Salary Dataset]
+### Project 17: [Salary Dataset]
 - **Folder:** [Salary Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Salary%20Data)  
 - **Description:** This data analysis, explores the Salary Dataset through Exploratory Data Analysis (EDA). The notebook covers various aspects of data analysis, including data cleaning, visualization, and deriving insights from the data.
 - **Level:**  Advanced
 
-### Project 19: [Maven Roaster Dataset]
+### Project 18: [Maven Roaster Dataset]
 - **Folder:** [Maven Roaster Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Maven%20Roasters)  
 - **Description:** This data analysis, explores the sales revenue dataset of Maven Roasters Coffee Shop through Exploratory Data Analysis (EDA).
 - **Level:**  Advanced
 
-### Project 20: [Seaborn's Taxis Dataset]
+### Project 19: [Seaborn's Taxis Dataset]
 - **Folder:** [Seaborn's Taxis Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Seaborn%20Taxis%20Dataset)  
 - **Description:** This notebook presents an analysis of the Taxis dataset using various visualization techniques with Seaborn library in Python.
+- **Level:**  Advanced
+
+### Project 20: [Diamonds Dataset]
+- **Folder:** [Diamonds Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Seaborn%20Taxis%20Dataset)  
+- **Description:** This notebook presents an analysis of the diamonds dataset using various visualization techniques with Seaborn library in Python and Machine Learning models by using LinearRegression, Polynomial Regression, Ridge and Lasso regression and ElasticNet.
 - **Level:**  Advanced
 
 ## Getting Started
