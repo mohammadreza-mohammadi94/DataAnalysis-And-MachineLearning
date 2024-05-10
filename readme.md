@@ -12,7 +12,7 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** This project analyzes a dataset of red wine quality. It aims to provide insights into the factors influencing wine quality. 
 
 ### [Weather Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/weather%20dataset)
-- **Description:** This repository contains the code and analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. The dataset includes various parameters such as temperature, dew point, relative humidity, wind speed, visibility, pressure, and weather conditions.
+- **Description:** This project contains analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. 
 
 ### [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Police Dataset, which provides comprehensive information about various police stops, including details about the drivers, violations, search outcomes, and other related factors
