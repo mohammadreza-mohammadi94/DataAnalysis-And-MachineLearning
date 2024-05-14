@@ -50,7 +50,7 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 ### [Seaborn's Taxis Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Seaborn%20Taxis%20Dataset)  
 - **Description:** This notebook presents an analysis of the Taxis dataset using various visualization techniques with Seaborn library in Python.
 
-### [Diamonds Dataset EDA & ML Modelling Using Regression Techniques](https://github.com/jigsaw1313/Data-Analysis/tree/master/Seaborn%20Taxis%20Dataset)  
+### [Diamonds Dataset EDA & ML Modelling Using Regression Techniques](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/Diamonds%20Dataset)  
 - **Description:** This notebook presents an analysis of the diamonds dataset using various visualization techniques with Seaborn library in Python and Machine Learning models by using LinearRegression, Polynomial Regression, Ridge and Lasso regression and ElasticNet.
 
 ## Getting Started
