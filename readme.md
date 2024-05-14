@@ -9,19 +9,13 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 - **Description:** data analysis process such as data cleaning , data reduction and transformation and some basic visualization
 
 ### [Red-Wine](https://github.com/jigsaw1313/data-analysis/tree/master/wine%20quality)  
-- **Description:** This project analyzes a dataset of red wine quality. It aims to provide insights into the factors influencing wine quality. 
-
-### [Weather Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/weather%20dataset)
-- **Description:** This project contains analysis for the exploration of the Weather Dataset, a comprehensive time-series dataset providing per-hour information about weather conditions at a particular location. 
+- **Description:** This project analyzes a dataset of red wine quality. It aims to provide insights into the factors influencing wine quality.  
 
 ### [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
 - **Description:** This repository contains the code and analysis for the exploration of the Police Dataset, which provides comprehensive information about various police stops, including details about the drivers, violations, search outcomes, and other related factors
 
 ### [COVID-19 Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/covid-19%20(small%20%26%20easy%20dataset))  
 - **Description:** This repository contains the code and analysis for understanding the trends and patterns related to the COVID-19 pandemic.
-
-### [World Population EDA](https://github.com/jigsaw1313/data-analysis/tree/master/world%20population%20%5BExploratory%20Data%20Analysis%5D) 
-- **Description:** This repository contains the code and analysis for exploring world population data
 
 ### [Data Science Job's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/Data%20Science%20Jobs) 
 - **Description:** This repository contains two Jupyter Notebooks that demonstrate data preprocessing techniques on a job listing dataset.
@@ -34,9 +28,6 @@ Welcome to the 'data-analysis' repository, where you'll find various data analys
 
 ### [Spotify Data Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/12-%20Spotify%20%231)  
 - **Description:** This project covers data cleaning, visualization, and statistical insights.
-
-### [Refugees (2010 - 2020)](https://github.com/jigsaw1313/Data-Analysis/tree/master/13-%20Refugees%20Dataset)  
-- **Description:** The dataset Refugees contains information about refugees, asylum seekers...
 
 ### [Stock's Prices (2006 - 2018)](https://github.com/jigsaw1313/Data-Analysis/tree/master/Stocks)  
 - **Description:** The repository contains descriptive and inferential analysis for different stocks information during 2006-2018.
