@@ -1,77 +1,60 @@
-# Data Analysis Repository
 ![Data Analysis](https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg)
 
-Welcome to the 'data-analysis' repository, where you'll find various data analysis projects. Each project is organized into its respective folder, making it easy to explore and understand the analyses conducted.
 
-# Projects
+# Data Analysis and Machine Learning Projects
 
-### [Titanic](https://github.com/jigsaw1313/data-analysis/tree/master/titanic)
-- **Description:** data analysis process such as data cleaning , data reduction and transformation and some basic visualization
+Welcome to my repository of Data Analysis and Machine Learning projects. Below you will find a collection of my work, categorized by their business domains for easy navigation.
 
-### [Red-Wine](https://github.com/jigsaw1313/data-analysis/tree/master/wine%20quality)  
-- **Description:** This project analyzes a dataset of red wine quality. It aims to provide insights into the factors influencing wine quality.  
+## Categories
 
-### [Police Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/police%20dataset)  
-- **Description:** This repository contains the code and analysis for the exploration of the Police Dataset, which provides comprehensive information about various police stops, including details about the drivers, violations, search outcomes, and other related factors
+### 1. Business Intelligence and Sales Analysis
+- **[Maven Roasters EDA and Sales Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Maven%20Roasters%20EDA%20and%20Sales%20Prediction)**: Analysis of sales data to predict future sales trends.
+- **[Marketing Campaigns](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/Marketing%20Campaigns)**: Analysis of customer behaviour and purchase patterns.
 
-### [COVID-19 Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/covid-19%20(small%20%26%20easy%20dataset))  
-- **Description:** This repository contains the code and analysis for understanding the trends and patterns related to the COVID-19 pandemic.
+### 2. Marketing and Customer Analysis
+- **[Red Wine Quality](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Red%20Wine%20Quality)**: Analysis of factors influencing wine quality to understand customer preferences.
+- **[Netflix Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Netflix%20Dataset)**: Insights into content consumption trends to aid in content marketing strategies.
+- **[Spotify Data Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Spotify%20Data%20Analysis)**: Analyzing music streaming data to understand listener preferences and behavior.
+- **[Udemy Courses](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Udemy%20Courses)**: Analysis of online course data to understand market trends in education.
+- **[Automobile Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)**: This repository contains a Jupyter Notebook (Automobile.ipynb) that explores the Automobile dataset. The notebook covers various aspects of data analysis including data cleaning, visualization, and exploratory data analysis (EDA).
 
-### [Data Science Job's Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/Data%20Science%20Jobs) 
-- **Description:** This repository contains two Jupyter Notebooks that demonstrate data preprocessing techniques on a job listing dataset.
+### 3. Risk Management and Financial Analysis
+- **[Stocks Prices (2006-2018)](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Stocks%20Prices%20(2006-2018))**: Analysis of stock prices for investment risk management.
+- **[California Housing Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/California%20Housing%20Analysis)**: Predicting housing prices to aid in real estate risk assessment.
+- **[Diamonds Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Diamonds%20Dataset)**: Predictive modeling on diamond prices for financial decisions in the luxury market.
 
-### [Udemy Courses Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/10-%20Udemy%20Courses)  
-- **Description:** Analyzing Udemy courses dataset for insights using Python data analysis tools.
+### 4. Public Health and Safety
+- **[COVID-19 Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/COVID-19%20Analysis)**: Analysis of COVID-19 trends and patterns for public health policy and safety measures.
+- **[Police Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Police%20Dataset)**: Analysis of police stops, violations, and outcomes for public safety and policy making.
+- **[Titanic Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Titanic%20Dataset)**: Historical data analysis providing insights into customer segmentation and survival prediction.
 
-### [Netflix's Movies/TV Shows Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/11-%20Netflix%20%231)  
-- **Description:** Explore and analyze the Netflix dataset for insights into release trends, ratings, genres, and more.
+### 5. Transportation and Logistics
+- **[Flights Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Flights%20Dataset)**: Analyzing flight delays and related factors for logistics and transportation management.
+- **[Seaborn Taxis Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Seaborn%20Taxis%20Dataset)**: Analysis of taxi data to understand transportation patterns.
 
-### [Spotify Data Analysis](https://github.com/jigsaw1313/data-analysis/tree/master/12-%20Spotify%20%231)  
-- **Description:** This project covers data cleaning, visualization, and statistical insights.
+### 6. Employment and Workforce
+- **[Data Science Jobs](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Data%20Science%20Jobs)**: Preprocessing and analysis of job listings to understand market demand for data science skills and employment trends.
 
-### [Stock's Prices (2006 - 2018)](https://github.com/jigsaw1313/Data-Analysis/tree/master/Stocks)  
-- **Description:** The repository contains descriptive and inferential analysis for different stocks information during 2006-2018.
+- **[Salaries Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Salary%20Data)**: This data analysis, explores the Salary Dataset through Exploratory Data Analysis (EDA). The notebook covers various aspects of data analysis, including data cleaning, visualization, and deriving insights from the data.
+## Repository Structure
 
-### [California Data Anlaysis](https://github.com/jigsaw1313/Data-Analysis/tree/master/California%20Housing%20Analysis)  
-- **Description:** The repository contains descriptive and inferential analysis for california housing dataset.
-
-### [Flights Dataset EDA](https://github.com/jigsaw1313/Data-Analysis/tree/master/Flights%20Dataset%20-%20EDA)  
-- **Description:** This repository contains a data analysis project focusing on flight delays
-
-### [Automobile Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)  
-- **Description:** TThis repository contains a Jupyter Notebook (Automobile.ipynb) that explores the Automobile dataset. The notebook covers various aspects of data analysis including data cleaning, visualization, and exploratory data analysis (EDA).
-
-### [Salary Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Salary%20Data) 
-- **Description:** This data analysis, explores the Salary Dataset through Exploratory Data Analysis (EDA). The notebook covers various aspects of data analysis, including data cleaning, visualization, and deriving insights from the data.
-
-### [Maven Roaster EDA and Sales Prediction Using Logistic Regression](https://github.com/jigsaw1313/Data-Analysis/tree/master/Maven%20Roasters)  
-- **Description:** This data analysis, explores the sales revenue dataset of Maven Roasters Coffee Shop through Exploratory Data Analysis (EDA).
-
-### [Seaborn's Taxis Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Seaborn%20Taxis%20Dataset)  
-- **Description:** This notebook presents an analysis of the Taxis dataset using various visualization techniques with Seaborn library in Python.
-
-### [Diamonds Dataset EDA & ML Modelling Using Regression Techniques](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/Diamonds%20Dataset)  
-- **Description:** This notebook presents an analysis of the diamonds dataset using various visualization techniques with Seaborn library in Python and Machine Learning models by using LinearRegression, Polynomial Regression, Ridge and Lasso regression and ElasticNet.
+Each project contains:
+- Data preprocessing and cleaning steps
+- Exploratory data analysis (EDA)
+- Model building and evaluation (for applicable projects)
+- Visualization of insights
 
 ## Getting Started
 
-If you're interested in a specific project, navigate to the respective project folder and explore the README.md file within that folder for more detailed information.
+To get started with any of these projects, clone the repository and navigate to the specific project folder:
 
-## Prerequisites
+```bash
+git clone https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning.git
+cd Data_Analysis_Machine_Learning/<project-folder>
+```
 
-Python and Libraries: Ensure that you have Python installed on your system. You'll need Python for coding the machine learning models. Additionally, you should have the following Python libraries installed:
+Each project folder contains a Jupyter Notebook (`.ipynb`) detailing the analysis and a `README.md` with further instructions and context.
 
-* NumPy
-* Pandas
-* Seaborn
-* Scikit-Learn (for machine learning)
-* Matplotlib and Seaborn (for data visualization)
-* Jupyter Notebook or an Integrated Development Environment (IDE) like JupyterLab, VSCode, or PyCharm for coding and analysis.
+## Contributing
 
-## Usage
-
-To run or replicate the analyses in each project folder, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/jigsaw1313/data-analysis.git`.
-2. Navigate to the specific project folder.
-3. Read the project's README.md file for detailed information on the analysis.
+If you would like to contribute to this repository, please fork the project and submit a pull request.
