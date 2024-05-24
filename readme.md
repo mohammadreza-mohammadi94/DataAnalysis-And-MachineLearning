@@ -27,7 +27,7 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 - **[COVID-19 Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/COVID-19%20Analysis)**: Analysis of COVID-19 trends and patterns for public health policy and safety measures.
 - **[Police Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Police%20Dataset)**: Analysis of police stops, violations, and outcomes for public safety and policy making.
 - **[Titanic Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Titanic%20Dataset)**: Historical data analysis providing insights into customer segmentation and survival prediction.
-- **[Heart Attach Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/4.%20Public%20Health%20and%20Safety/Heart%20Attack%20Prediction): Analyzing and Prediction of heart attachs from historical data.
+- **[Heart Attach Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/4.%20Public%20Health%20and%20Safety/Heart%20Attack%20Prediction)**: Analyzing and Prediction of heart attachs from historical data.
 
 ### 5. Transportation and Logistics
 - **[Flights Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Flights%20Dataset)**: Analyzing flight delays and related factors for logistics and transportation management.
