@@ -22,6 +22,7 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 - **[Stocks Prices (2006-2018)](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Stocks%20Prices%20(2006-2018))**: Analysis of stock prices for investment risk management.
 - **[California Housing Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/California%20Housing%20Analysis)**: Predicting housing prices to aid in real estate risk assessment.
 - **[Diamonds Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Diamonds%20Dataset)**: Predictive modeling on diamond prices for financial decisions in the luxury market.
+- **[Utah Real Estates](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/3.%20Risk%20Management%20and%20Financial%20Analysis/Real%20Estate%20Utah)**: Analysis of houses and listing price prediction.
 
 ### 4. Public Health and Safety
 - **[COVID-19 Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/COVID-19%20Analysis)**: Analysis of COVID-19 trends and patterns for public health policy and safety measures.
