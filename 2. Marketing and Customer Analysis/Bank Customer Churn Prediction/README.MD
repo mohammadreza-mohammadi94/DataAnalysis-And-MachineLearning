@@ -1,5 +1,3 @@
-Sure! Here’s a sample `README.md` for your GitHub repository:
-
 # Bank Customer Churn Prediction
 
 This project focuses on predicting customer churn for a bank using various data analysis and machine learning techniques. The goal is to identify customers who are at risk of leaving the bank and to understand the factors contributing to their decision.
