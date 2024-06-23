@@ -17,6 +17,7 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 - **[Spotify Data Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Spotify%20Data%20Analysis)**: Analyzing music streaming data to understand listener preferences and behavior.
 - **[Udemy Courses](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Udemy%20Courses)**: Analysis of online course data to understand market trends in education.
 - **[Automobile Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)**: This repository contains a Jupyter Notebook (Automobile.ipynb) that explores the Automobile dataset. The notebook covers various aspects of data analysis including data cleaning, visualization, and exploratory data analysis (EDA).
+- **[Bank Customer Churn Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/2.%20Marketing%20and%20Customer%20Analysis/Bank%20Customer%20Churn%20Prediction)**:This project focuses on predicting customer churn for a bank using various data analysis and machine learning techniques.
 
 ### 3. Risk Management and Financial Analysis
 - **[Stocks Prices (2006-2018)](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Stocks%20Prices%20(2006-2018))**: Analysis of stock prices for investment risk management.
