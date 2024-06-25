@@ -1,6 +1,6 @@
 # Medical Insurance Prediction
 
-![Medical Insurance](https://miro.medium.com/max/1400/1*16yfVHIfG7pFb9saDyoW9Q.png)
+![Medical Insurance](https://i.ibb.co/kMc3QQw/what-makes-a-good-medical-insurance.jpg)
 
 Welcome to the Medical Insurance Prediction project! This repository contains a Jupyter Notebook that performs data analysis and machine learning to predict medical insurance costs based on various features.
 
