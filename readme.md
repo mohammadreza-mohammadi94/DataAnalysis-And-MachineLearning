@@ -17,13 +17,17 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 - **[Spotify Data Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Spotify%20Data%20Analysis)**: Analyzing music streaming data to understand listener preferences and behavior.
 - **[Udemy Courses](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Udemy%20Courses)**: Analysis of online course data to understand market trends in education.
 - **[Automobile Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Automobile%20Dataset)**: This repository contains a Jupyter Notebook (Automobile.ipynb) that explores the Automobile dataset. The notebook covers various aspects of data analysis including data cleaning, visualization, and exploratory data analysis (EDA).
-- **[Bank Customer Churn Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/2.%20Marketing%20and%20Customer%20Analysis/Bank%20Customer%20Churn%20Prediction)**:This project focuses on predicting customer churn for a bank using various data analysis and machine learning techniques.
+- **[Bank Customer Churn Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/2.%20Marketing%20and%20Customer%20Analysis/Customer%20Segmentation)**:This project focuses on predicting customer churn for a bank using various data analysis and machine learning techniques.
+- **[Customer Segmentation](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/2.%20Marketing%20and%20Customer%20Analysis/Bank%20Customer%20Churn%20Prediction)**:This repository contains a Jupyter Notebook for segmenting customers based on their purchasing behavior.
 
 ### 3. Risk Management and Financial Analysis
 - **[Stocks Prices (2006-2018)](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Stocks%20Prices%20(2006-2018))**: Analysis of stock prices for investment risk management.
 - **[California Housing Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/California%20Housing%20Analysis)**: Predicting housing prices to aid in real estate risk assessment.
 - **[Diamonds Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Diamonds%20Dataset)**: Predictive modeling on diamond prices for financial decisions in the luxury market.
 - **[Utah Real Estates](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/3.%20Risk%20Management%20and%20Financial%20Analysis/Real%20Estate%20Utah)**: Analysis of houses and listing price prediction.
+- **[Credit Card Fraud Detetion](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/3.%20Risk%20Management%20and%20Financial%20Analysis/Credit%20Card%20Fraud%20Detection)**:  The project involves data preprocessing, exploratory data analysis (EDA), and building machine learning models to identify fraudulent transactions.
+- **[Customer E-Signing Classification](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/3.%20Risk%20Management%20and%20Financial%20Analysis/Customers_E_Signing_Classification)**: This repository contains a Jupyter Notebook for classifying customers based on their likelihood to electronically sign financial documents.
+- **[House Prices](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/3.%20Risk%20Management%20and%20Financial%20Analysis/House%20Prices)**:This repository contains a Jupyter Notebook for predicting house prices using regression models. The project involves data preprocessing, feature engineering, model training, and evaluation. 
 
 ### 4. Public Health and Safety
 - **[COVID-19 Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/COVID-19%20Analysis)**: Analysis of COVID-19 trends and patterns for public health policy and safety measures.
@@ -31,6 +35,8 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 - **[Titanic Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Titanic%20Dataset)**: Historical data analysis providing insights into customer segmentation and survival prediction.
 - **[Heart Attach Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/4.%20Public%20Health%20and%20Safety/Heart%20Attack%20Prediction)**: Analyzing and Prediction of heart attachs from historical data.
 - **[Breast Cancer Detection](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/4.%20Public%20Health%20and%20Safety/Breast%20Cancer%20Wisconsin%20(Diagnostic)%20Data%20Set)**: Analysis of the Breast Cancer Wisconsin (Diagnostic) data set, which includes machine learning and data analysis techniques.
+ - **[Medical Insurance Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/4.%20Public%20Health%20and%20Safety/Medical%20Insurance%20Prediction)**: This repository contains a Jupyter Notebook that performs data analysis and machine learning to predict medical insurance costs based on various features.
+ - **[Water Quality](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/4.%20Public%20Health%20and%20Safety/Water%20Quality)**: This repository contains a Jupyter Notebook that performs data analysis and machine learning to analyze potable water.
 
 ### 5. Transportation and Logistics
 - **[Flights Dataset](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Flights%20Dataset)**: Analyzing flight delays and related factors for logistics and transportation management.
@@ -38,10 +44,13 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 
 ### 6. Employment and Workforce
 - **[Data Science Jobs](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Data%20Science%20Jobs)**: Preprocessing and analysis of job listings to understand market demand for data science skills and employment trends.
-
 - **[Salaries Dataset](https://github.com/jigsaw1313/Data-Analysis/tree/master/Salary%20Data)**: This data analysis, explores the Salary Dataset through Exploratory Data Analysis (EDA). The notebook covers various aspects of data analysis, including data cleaning, visualization, and deriving insights from the data.
-## Repository Structure
+- **[Employee Attrition Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/6.%20Employment%20and%20Workforce/Employee%20Attrition)**: The project involves data preprocessing, exploratory data analysis (EDA), and building classification models to predict whether an employee will leave the company.
 
+### 7. Sentiment Analysis
+- **[Restaurant Review Classification and Sentiment Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/7.%20Sentiment%20Analysis/Restaurant%20Review%20Classification)**: This repository contains a Jupyter Notebook for classifying restaurant reviews and performing sentiment analysis.
+
+## Repository Structure
 Each project contains:
 - Data preprocessing and cleaning steps
 - Exploratory data analysis (EDA)
