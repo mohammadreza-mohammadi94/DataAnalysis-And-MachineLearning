@@ -1,7 +1,5 @@
 # Restaurant Review Classification and Sentiment Analysis
 
-![Sentiment Analysis](https://cdn-icons-png.flaticon.com/512/3143/3143656.png)
-
 This repository contains a Jupyter Notebook for classifying restaurant reviews and performing sentiment analysis. The project involves data preprocessing, text analysis, and machine learning techniques to predict the sentiment of reviews.
 
 ## Overview
