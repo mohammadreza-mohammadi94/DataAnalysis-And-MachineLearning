@@ -10,6 +10,7 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 ### 1. Business Intelligence and Sales Analysis
 - **[Maven Roasters EDA and Sales Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Maven%20Roasters%20EDA%20and%20Sales%20Prediction)**: Analysis of sales data to predict future sales trends.
 - **[Marketing Campaigns](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/Marketing%20Campaigns)**: Analysis of customer behaviour and purchase patterns.
+- **[Online Retail Sales Clustering](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/1.%20Business%20Intelligence%20and%20Sales%20Analysis/Online%20Retail%20Sales%20(Clustering))**: Clustering analysis of online retail sales data. The project aims to segment customers based on their purchasing behavior using clustering techniques.
 
 ### 2. Marketing and Customer Analysis
 - **[Red Wine Quality](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Red%20Wine%20Quality)**: Analysis of factors influencing wine quality to understand customer preferences.
