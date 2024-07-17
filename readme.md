@@ -50,6 +50,7 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 
 ### 7. Sentiment Analysis
 - **[Restaurant Review Classification and Sentiment Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/7.%20Sentiment%20Analysis/Restaurant%20Review%20Classification)**: This repository contains a Jupyter Notebook for classifying restaurant reviews and performing sentiment analysis.
+- - **[IMDB Movie's Review - Sentiment Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/7.%20Sentiment%20Analysis/IMDB%20Movie's%20Review%20-%20Sentiment%20Analysis)**: Analysis of IMDB movie reviews. The project aims to classify movie reviews as positive or negative using various machine learning techniques.
 
 ## Repository Structure
 Each project contains:
