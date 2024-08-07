@@ -5,7 +5,7 @@
 
 Welcome to my repository of Data Analysis and Machine Learning projects. Below you will find a collection of my work, categorized by their business domains for easy navigation.
 
-## Categories
+## Analysis Categories
 
 ### 1. Business Intelligence and Sales Analysis
 - **[Maven Roasters EDA and Sales Prediction](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/main/Maven%20Roasters%20EDA%20and%20Sales%20Prediction)**: Analysis of sales data to predict future sales trends.
