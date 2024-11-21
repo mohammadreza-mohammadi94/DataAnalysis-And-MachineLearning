@@ -53,6 +53,11 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 - **[Restaurant Review Classification and Sentiment Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/7.%20Sentiment%20Analysis/Restaurant%20Review%20Classification)**: This repository contains a Jupyter Notebook for classifying restaurant reviews and performing sentiment analysis.
 - **[IMDB Movie's Review - Sentiment Analysis](https://github.com/mohammadreza-mohammadi94/Data_Analysis_Machine_Learning/tree/master/7.%20Sentiment%20Analysis/IMDB%20Movie's%20Review%20-%20Sentiment%20Analysis)**: Analysis of IMDB movie reviews. The project aims to classify movie reviews as positive or negative using various machine learning techniques.
 
+### 8. Predictive Maintenance and Reliability Engineering
+- **[Remaining Useful Life (RUL) Prediction for Jet Engines](https://github.com/mohammadreza-mohammadi94/Data-Analysis-And-Machine-Learning-Projects/tree/master/8.%20Predictive%20Maintenance%20and%20Reliability%20Engineering/Remaining%20Useful%20Life%20(RUL)%20Prediction%20for%20Jet%20Engines)**: This project focuses on Exploratory Data Analysis (EDA) of the Turbofan Engine Degradation Simulation Dataset
+
+----
+
 ## Repository Structure
 Each project contains:
 - Data preprocessing and cleaning steps
