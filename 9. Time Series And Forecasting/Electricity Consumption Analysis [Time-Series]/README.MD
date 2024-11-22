@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file tailored to your **Electricity Consumption Analysis [Time-Series]** project:
-
----
-
 # Electricity Consumption Analysis [Time-Series]
 
 This project focuses on analyzing and forecasting electricity consumption using time-series data. The dataset provides aggregated consumption values across different clients over time, and the goal is to uncover patterns, visualize trends, and forecast future electricity demand using statistical and machine learning techniques.
