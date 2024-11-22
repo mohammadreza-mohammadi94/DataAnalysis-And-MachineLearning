@@ -4,18 +4,10 @@ This project focuses on analyzing and forecasting electricity consumption using 
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Project Objectives](#project-objectives)
 - [Key Features](#key-features)
 - [Usage](#usage)
 - [Results and Analysis](#results-and-analysis)
-
-
----
-
-## Overview
-
-This repository includes code and visualizations for time-series analysis and forecasting of electricity consumption. The analysis leverages statistical models like ARIMA and explores moving averages and other visualization techniques to better understand demand patterns.
 
 ---
 
@@ -61,4 +53,3 @@ Open the Jupyter Notebook provided and follow the steps to load the dataset, run
 ### Key Insights:
 - **Trends**: Electricity consumption follows clear seasonal patterns, likely influenced by temperature and usage habits.
 - **Moving Averages**: Smoothed trends reveal periodic peaks and troughs in demand.
-- **Forecasting**: The ARIMA model captures short-term trends but requires further fine-tuning for long-term accuracy.
