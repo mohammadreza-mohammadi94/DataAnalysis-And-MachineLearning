@@ -57,7 +57,7 @@ Welcome to my repository of Data Analysis and Machine Learning projects. Below y
 - **[Remaining Useful Life (RUL) Prediction for Jet Engines](https://github.com/mohammadreza-mohammadi94/Data-Analysis-And-Machine-Learning-Projects/tree/master/8.%20Predictive%20Maintenance%20and%20Reliability%20Engineering/Remaining%20Useful%20Life%20(RUL)%20Prediction%20for%20Jet%20Engines)**: This project focuses on Exploratory Data Analysis (EDA) of the Turbofan Engine Degradation Simulation Dataset
 
 ### 9. Times Series And Forecasting
-- **Electricity Consumption Analysis [Time Series](https://github.com/mohammadreza-mohammadi94/Data-Analysis-And-Machine-Learning-Projects/tree/master/9.%20Time%20Series%20And%20Forecasting/Electricity%20Consumption%20Analysis%20%5BTime-Series%5D)**:This repository includes code and visualizations for time-series analysis and forecasting of electricity consumption
+- **[Electricity Consumption Analysis Time Series](https://github.com/mohammadreza-mohammadi94/Data-Analysis-And-Machine-Learning-Projects/tree/master/9.%20Time%20Series%20And%20Forecasting/Electricity%20Consumption%20Analysis%20%5BTime-Series%5D)**:This repository includes code and visualizations for time-series analysis and forecasting of electricity consumption
 
 ----
 
